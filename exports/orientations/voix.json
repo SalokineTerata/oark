@@ -1,0 +1,50 @@
+{
+  "BORRAS": {
+    "timbre": "dylan",
+    "caractere": "a gruff, tired man"
+  },
+  "JARO": {
+    "timbre": "ryan",
+    "caractere": "a bold man"
+  },
+  "KODA": {
+    "timbre": "ono_anna",
+    "caractere": "a determined young woman"
+  },
+  "NARRATEUR": {
+    "timbre": "uncle_fu",
+    "caractere": "a calm, deep, warm storyteller voice"
+  },
+  "OPÉRATEUR DE SCANNER": {
+    "timbre": "aiden",
+    "caractere": "a secondary character: opérateur de scanner"
+  },
+  "BRICOLE": {
+    "timbre": "aiden",
+    "caractere": "a quick, curious, youthful voice"
+  },
+  "DESTINATAIRE": {
+    "timbre": "sohee",
+    "caractere": "a secondary character: destinataire"
+  },
+  "SECONDAIRE": {
+    "timbre": "ryan",
+    "caractere": "a secondary character: secondaire"
+  },
+  "AUTRE": {
+    "timbre": "dylan",
+    "caractere": "a secondary character: autre"
+  },
+  "VOIX": {
+    "timbre": "sohee",
+    "caractere": "a secondary character: voix"
+  },
+  "ECHO": {
+    "timbre": "eric",
+    "caractere": "a calm, slightly artificial, precise voice"
+  },
+  "COMMANDANT": {
+    "timbre": "dylan",
+    "caractere": "a secondary character: commandant"
+  }
+}

@@ -4,13 +4,11 @@ Dépôt officiel du projet **Oark** : manuscrits, illustrations, exports EPUB/PD
 
 ## Structure du projet
 
-- **`exports-v2/`** : Édition Référence V2 (52 chapitres, plans directeurs et 3 EPUB3 illustrés : *Livre I - L'Éveil*, *Livre II - La Traque*, *Livre III - L'Héritage*).
-- **`Livre I - L_éveil/`**, **`Livre II - La Traque/`**, **`Livre III - L’Héritage/`** : Manuscrits V1 par chapitre.
-- **`exports/`** : Exports EPUB/PDF V1 et orientations audio existantes.
-- **`illustrations/`** : Illustrations de la trilogie.
-- **`archives/`** : Documents canoniques de référence.
-- **`scripts/`**, **`tests/`**, **`*.py`** : Scripts déterministes de construction EPUB (`scripts/build_books_v2.py`), de vérification (`verify_v2.py`), de journalisation (`scripts/journal_ia.py`) et pipeline audiobook local (`main_audiobook.py`).
-- **`HISTORIQUE_IA.md`**, **`STUDIO_IA.md`**, **`AGENTS.md`** : Documentation de reprise et d'architecture.
+- **`livres/`** : Édition Référence active (V2 — 52 chapitres, plans directeurs et 58 illustrations fusain & pastel dans `livres/illustrations/`).
+- **`exports/`** : Livrables générés actifs (3 EPUB3 illustrés : *Livre I - L'Éveil*, *Livre II - La Traque*, *Livre III - L'Héritage*, et orientations audio).
+- **`archives/`** : Documents canoniques de référence et ancienne version V1 archivée (`archives/v1/` : manuscrits V1, illustrations V1 et anciens exports EPUB/PDF).
+- **`scripts/`**, **`tests/`**, **`*.py`** : Scripts déterministes de construction EPUB (`scripts/build_books_v2.py`), de journalisation (`scripts/journal_ia.py`) et pipeline audiobook local (`main_audiobook.py`).
+- **`HISTORIQUE_IA.md`**, **`STUDIO_IA.md`**, **`AGENTS.md`**, **`journal_ia/`** : Documentation de reprise, architecture et journal rotatif des IA.
 
 ## Prérequis techniques (outillage local)
 

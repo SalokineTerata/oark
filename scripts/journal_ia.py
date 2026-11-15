@@ -14,6 +14,11 @@ BOOKS = (
     ("2", "Livre II - La Traque"),
     ("3", "Livre III - L’Héritage"),
 )
+BOOKS_V2 = {
+    "1": "livres/Livre I - L'Éveil",
+    "2": "livres/Livre II - La Traque",
+    "3": "livres/Livre III - L'Héritage",
+}
 
 
 def atomic_write(path: Path, text: str) -> None:
@@ -92,7 +97,8 @@ def add_entry(directory: Path, title: str, text: str) -> Path | None:
 def status(root: Path) -> str:
     lines = [f"Projet : {root}"]
     for number, folder in BOOKS:
-        source = root / folder
+        v2_source = root / BOOKS_V2[number]
+        source = v2_source if v2_source.is_dir() else root / folder
         chapters = len(list(source.glob("*.md"))) if source.is_dir() else 0
         pivots = root / "exports" / "orientations" / f"Livre-{number}"
         orientations = len(list(pivots.glob("chapitre-*.json"))) if pivots.is_dir() else 0

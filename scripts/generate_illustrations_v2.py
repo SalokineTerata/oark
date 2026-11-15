@@ -15,7 +15,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parent.parent
-V2_ILLUST = ROOT / "exports-v2" / "illustrations"
+V2_ILLUST = ROOT / "livres" / "illustrations"
 MANIFEST = V2_ILLUST / "manifest_v2.json"
 BOOK_FOLDERS = {"I": "livre-i", "II": "livre-ii", "III": "livre-iii"}
 MAX_GPU_TEMP_C = 85

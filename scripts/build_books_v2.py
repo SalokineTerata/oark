@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build EPUB3 books for the Oark V2 trilogy in exports-v2/ using Pandoc."""
+"""Build EPUB3 books for the Oark V2 trilogy from livres/ into exports/ using Pandoc."""
 
 from __future__ import annotations
 
@@ -15,7 +15,8 @@ import zipfile
 
 
 ROOT = Path(__file__).resolve().parent.parent
-EXPORTS_V2 = ROOT / "exports-v2"
+LIVRES = ROOT / "livres"
+EXPORTS = ROOT / "exports"
 BOOKS = (
     ("I", "Livre I - L'Éveil", "Oark - Livre I - L'Éveil.epub", "Oark — Livre I : L’Éveil"),
     ("II", "Livre II - La Traque", "Oark - Livre II - La Traque.epub", "Oark — Livre II : La Traque"),
@@ -41,7 +42,7 @@ def find_pandoc() -> Path:
 
 
 def discover_book(folder_name: str) -> list[tuple[int, Path, str]]:
-    directory = EXPORTS_V2 / folder_name
+    directory = LIVRES / folder_name
     if not directory.is_dir():
         raise RuntimeError(f"Dossier introuvable : {directory}")
     sources: list[tuple[int, Path]] = []
@@ -89,7 +90,7 @@ def verify_epub(epub_path: Path, expected_chapters: int) -> dict[str, int]:
 
 
 def run() -> None:
-    parser = argparse.ArgumentParser(description="Construire les EPUB3 de la trilogie V2 dans exports-v2/.")
+    parser = argparse.ArgumentParser(description="Construire les EPUB3 de la trilogie V2 dans exports/.")
     parser.add_argument("--book", choices=("I", "II", "III"), help="Ne construire qu'un seul livre.")
     args = parser.parse_args()
 
@@ -101,8 +102,9 @@ def run() -> None:
     selected = [b for b in BOOKS if not args.book or b[0] == args.book]
     prepared = [(b, discover_book(b[1])) for b in selected]
 
+    EXPORTS.mkdir(parents=True, exist_ok=True)
     # Temp dir strictly on D: (never C:)
-    with tempfile.TemporaryDirectory(prefix="oark-v2-epub-", dir=EXPORTS_V2) as workdir:
+    with tempfile.TemporaryDirectory(prefix="oark-v2-epub-", dir=EXPORTS) as workdir:
         work = Path(workdir)
         css_v2 = work / "book_style_v2.css"
         css_v2.write_text(
@@ -121,7 +123,7 @@ def run() -> None:
         for (roman, _, filename, title), chapters in prepared:
             md_path = work / f"oark-v2-livre-{roman.lower()}.md"
             epub_tmp = work / filename
-            target = EXPORTS_V2 / filename
+            target = EXPORTS / filename
             combined_md = "\n\n".join(c[2] for c in chapters) + "\n"
             combined_md = combined_md.replace("](../illustrations/", "](illustrations/")
             md_path.write_text(combined_md, encoding="utf-8", newline="\n")
@@ -135,14 +137,14 @@ def run() -> None:
                     "--standalone",
                     "--toc",
                     "--toc-depth=1",
-                    "--resource-path", str(EXPORTS_V2),
+                    "--resource-path", str(LIVRES),
                     "--metadata", f"title={title}",
                     "--metadata", "lang=fr",
                     "--css", str(css_v2),
                     "--output", str(epub_tmp),
                 ],
                 check=True,
-                cwd=EXPORTS_V2,
+                cwd=LIVRES,
             )
             shutil.copyfile(epub_tmp, target)
             stats = verify_epub(target, len(chapters))

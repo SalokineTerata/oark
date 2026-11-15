@@ -3,7 +3,7 @@
     "SessionStart": [
       {
         "type": "command",
-        "command": "\"D:\\dev\\Oark-Copilot\\.venv\\Scripts\\python.exe\" \"D:\\dev\\Oark-Copilot\\scripts\\hook_session_ia.py\"",
+        "command": "\".venv\\Scripts\\python.exe\" \"outil\\hook_session_ia.py\"",
         "timeout": 10
       }
     ]

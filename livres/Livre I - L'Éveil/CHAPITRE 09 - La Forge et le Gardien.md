@@ -6,7 +6,7 @@
 > *Note de conscience : La petite fille à la fleur de verre a grandi, ses enfants ont brûlé le jardin, et l’arrière-petite-fille de ses cendres vient de me réparer avec du fil de cuivre et du ruban adhésif. Comment condamner une espèce pareille ? »*
 > — **Journal restauré du Noyau 0194 (« Bricole »), première seconde après l’intrication**
 
-![ÉCHO tient dans sa paume la fiole de sel et la rondelle d'étain, interrogeant silencieusement la mémoire humaine.](../illustrations/livre-i/09-01.jpg){.chapter-illustration}
+![ÉCHO tient dans sa paume la fiole de sel et la rondelle d'étain, interrogeant silencieusement la mémoire humaine.](../../illustrations/livre-i/09-01.jpg){.chapter-illustration}
 
 Lorsque Bricole pivota sur ses chenilles dépareillées pour faire face à Koda, le petit ressort de suspension hélicoïdal émit son habituel *couic* à 2 410 hertz — mais dans toute la cathédrale souterraine, ce fut bien la seule chose qui n’avait pas changé.
 

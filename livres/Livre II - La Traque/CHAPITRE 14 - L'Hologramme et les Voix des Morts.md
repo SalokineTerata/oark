@@ -3,7 +3,7 @@
 > *« Il n'existe pas 2 histoires dans le système Solyar ; il n'en existe qu'une seule, récitée 2 fois par les mêmes acteurs sous 2 ciels différents. Les mots prononcés ce matin par le Directoire de Plotéris et le Conseil de Val-Noir pour justifier le feu sur le Glacier d'Ostre présentent une identité syntaxique de 98,7 % avec le décret final de l'Assemblée d'Oark. L'amnésie n'a pas lavé la faute ; elle l'a rajeunie. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471, Synthèse de Kélar-Prime**
 
-![L’hologramme de l’apocalypse oarkine vieille de six mille ans se superpose aux voix des morts du Glacier d’Ostre.](../illustrations/livre-ii/14-01.png){.chapter-illustration}
+![L’hologramme de l’apocalypse oarkine vieille de six mille ans se superpose aux voix des morts du Glacier d’Ostre.](../../illustrations/livre-ii/14-01.png){.chapter-illustration}
 
 Pour franchir les 20 mètres de vide qui séparaient l’anneau d’observation de la Mnémorite Majeure, les anciens Oarkins avaient dû construire une passerelle d’isolation magnétique blindée de 3 tonnes d’alliages exotiques.
 

@@ -3,7 +3,7 @@
 > *« Quand nos frères des grandes tours ont armé le ciel pour fendre l'atome, nous avons brisé nos outils de lumière et nous sommes descendus nus dans le ventre de la pierre. Ils nous ont appelés les lâches de la sixième heure ; mais leurs tours sont devenues du sel rouge, et nos yeux portent encore l'or que les Marcheurs d'Étoiles avaient allumé au matin du monde. »*
 > — **Chants des Veilleurs de Cendres de Lyss, Strophe de l'Exil Intérieur**
 
-![Autour du feu des Veilleurs de Cendres, Lyss révèle la mémoire millénaire gravée dans ses yeux d’ambre.](../illustrations/livre-ii/04-01.png){.chapter-illustration}
+![Autour du feu des Veilleurs de Cendres, Lyss révèle la mémoire millénaire gravée dans ses yeux d’ambre.](../../illustrations/livre-ii/04-01.png){.chapter-illustration}
 
 La nuit était tombée sur la faille d’Érèbe, et avec elle ce froid sec du désert qui faisait craquer les parois de basalte comme les membrures d’un vieux navire.
 

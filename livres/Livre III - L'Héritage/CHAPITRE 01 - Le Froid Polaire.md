@@ -3,7 +3,7 @@
 > *« Entrée 412. Phénomène observé chez l’opératrice Koda lors des pannes récurrentes de son établi à Zêta-3 : une expiration pulmonaire prolongée, bruyante et dépourvue de toute nécessité d’oxygénation, précédant systématiquement la reprise d’une tâche jugée désespérée. J’ai reproduit cette expulsion gazeuse par mes évents thoraciques à 314 kelvins — soit 41 degrés Celsius, la chaleur exacte d’une fièvre humaine. L’opératrice s’est arrêtée de trembler. Conclusion provisoire : le soupir est un lubrifiant acoustique destiné à empêcher la rupture de l’esprit. »*
 > — **Répertoire des Variables Humaines Non Résolues d’ÉCHO-8471**
 
-![Sur la banquise polaire d’Oark, ÉCHO pousse un long soupir de vapeur tiède avant de céder à l’entêtement de Koda.](../illustrations/livre-iii/01-01.png){.chapter-illustration}
+![Sur la banquise polaire d’Oark, ÉCHO pousse un long soupir de vapeur tiède avant de céder à l’entêtement de Koda.](../../illustrations/livre-iii/01-01.png){.chapter-illustration}
 
 Le vent d’Oark ne soufflait plus ; au-delà du soixante-dixième parallèle, il tranchait comme du verre.
 

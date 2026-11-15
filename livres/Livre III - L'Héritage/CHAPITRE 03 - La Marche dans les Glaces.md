@@ -7,7 +7,7 @@
 > *Le compas des étoiles s’est brisé en 2. »*
 > — **Chants des Veilleurs de Cendres de la gorge d’Érèbe, transmis par Lyss**
 
-![À l’abri d’un sérac de glace bleue, ÉCHO sculpte en cachette une minuscule fleur de givre à six pétales.](../illustrations/livre-iii/03-01.png){.chapter-illustration}
+![À l’abri d’un sérac de glace bleue, ÉCHO sculpte en cachette une minuscule fleur de givre à six pétales.](../../illustrations/livre-iii/03-01.png){.chapter-illustration}
 
 Le monde n’était plus qu’un mur de craie hurlante.
 

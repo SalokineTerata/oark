@@ -3,7 +3,7 @@
 > *« À 13 heures 40, Sol-Morne m'a transmis l'acte de décès de la Troisième Compagnie de Génie à la Brèche d'Ostre, et le nom d'un caporal de 22 ans, Soren Valen, qui s'est laissé brûler vif dans la chambre des vannes pour faire passer le train des enfants du Dôme 4 en bloquant le levier avec du fil de cuivre. À 13 heures 42, j'ai regardé mourir la Section Noire sur mes écrans. Ce garçon là-bas est mort en croyant que je cherchais sur Oark de quoi sauver sa sœur. Je viens de condamner les 2 mondes. »*
 > — **Carnets personnels du Général Vane, Dernière page du cahier d'Oark**
 
-![Dans la salle de guerre silencieuse, Vane et Borras voient les écrans vitaux de l’élite s’éteindre un par un.](../illustrations/livre-ii/17-01.png){.chapter-illustration}
+![Dans la salle de guerre silencieuse, Vane et Borras voient les écrans vitaux de l’élite s’éteindre un par un.](../../illustrations/livre-ii/17-01.png){.chapter-illustration}
 
 À 110 kilomètres au nord du Bassin de Kélar, dans les entrailles d’acier du croiseur des sables *Bastion-Un*, personne n’osait plus essuyer la sueur qui coulait sur les consoles.
 

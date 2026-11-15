@@ -3,7 +3,7 @@
 > *« Le commandement du Front d'Ostre m'a envoyé 3 dépêches chiffrées cette nuit pour réclamer le retour des exosquelettes de la Section Noire. Ils me disent que la glace craque sous les chenilles du maréchal Krov et que la Brèche ne tiendra pas 48 heures sans réserve lourde. Ils ont raison. Mais si je leur renvoie 12 blindés, la Brèche tombera dans 72 heures au lieu de 48. Si je prends ce qui se cache sous Kélar, il n'y aura plus jamais de front. »*
 > — **Carnets personnels du Général Vane, Journal de bord du croiseur Bastion-Un**
 
-![À bord de son vaisseau, Vane trace l’impulsion électromagnétique vers le cœur des Terres Mortes.](../illustrations/livre-ii/09-01.png){.chapter-illustration}
+![À bord de son vaisseau, Vane trace l’impulsion électromagnétique vers le cœur des Terres Mortes.](../../illustrations/livre-ii/09-01.png){.chapter-illustration}
 
 À l’intérieur du croiseur des sables *Bastion-Un*, qui avançait toutes chenilles hurlantes à travers le plateau de Zêta, la salle d’écoute électromagnétique baignait dans une pénombre verdâtre saturée d’ozone et de fumée de tabac froid.
 

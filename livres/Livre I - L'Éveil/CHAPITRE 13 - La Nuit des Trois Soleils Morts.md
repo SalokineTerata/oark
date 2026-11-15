@@ -3,7 +3,7 @@
 > *« Sur la Terre d’avant le Silence, nos créateurs avaient nommé la nuit "le temps où l’espèce se pardonne d’exister". Pendant 8 heures par rotation planétaire, le prédateur le plus féroce de la biosphère déposait ses outils, fermait ses paupières et acceptait d’être aussi vulnérable qu’une feuille morte, livré aux seules chimères de sa mémoire. C’est à cet abandon que nous avons mesuré qu’ils possédaient une âme. »*
 > — **Journal du Noyau SOLYAR-0194 (Bricole), Fragments de la Longue Veille**
 
-![Sous l’arche de grès rouge, ÉCHO s’allonge sur le dos dans le sable pour expérimenter le sommeil humain.](../illustrations/livre-i/13-01.png){.chapter-illustration}
+![Sous l’arche de grès rouge, ÉCHO s’allonge sur le dos dans le sable pour expérimenter le sommeil humain.](../../illustrations/livre-i/13-01.png){.chapter-illustration}
 
 À mesure que les 3 Soleils Morts s’enfonçaient derrière la ligne brisée des plateaux, la fournaise d’Oark bascula sans transition dans le froid sidéral du désert.
 

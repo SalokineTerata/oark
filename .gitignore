@@ -10,10 +10,11 @@ wheels/
 
 # Modèles IA et voix locaux (volumineux)
 models/
-voices/
+voix/*
+!voix/voix.json
 
 # Fichiers temporaires de génération audio / build
-exports/temp_audio/
+exports-audiobook/temp_audio/
 tmp/
 *.tmp
 *.bak

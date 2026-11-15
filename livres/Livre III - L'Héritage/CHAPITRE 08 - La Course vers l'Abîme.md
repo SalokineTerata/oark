@@ -3,7 +3,7 @@
 > *« On m’a retiré ma clé dynamométrique — celle qui claque dans la paume quand un boulon de culasse atteint le bon couple de serrage — à 3 heures du matin pour me pousser dans la tourelle ventrale d’un marcheur de dépannage qui sentait le vomi et l’huile brûlée. Le sergent a dit qu’on montait au pôle Nord capturer le miracle des anciens dieux, celui qui allait venger nos bataillons engloutis hier à la Brèche d’Ostre. J’ai 20 ans, je n’ai jamais vu la mer, mes doigts collent au métal gelé de l’affût, et je ne sais même pas à quoi ressemble un dieu. »*
 > — **Témoignage du sapeur-mécanicien de deuxième classe Yoren, 4e Bataillon Logistique Afistéaan**
 
-![Sous le blizzard polaire, les colonnes blindées de Condorcé et l’armada afistéanne s’affrontent au bord même du gouffre.](../illustrations/livre-iii/08-01.png){.chapter-illustration}
+![Sous le blizzard polaire, les colonnes blindées de Condorcé et l’armada afistéanne s’affrontent au bord même du gouffre.](../../illustrations/livre-iii/08-01.png){.chapter-illustration}
 
 À 1 000 mètres au-dessus du Sanctuaire Mère, l’enfer venait de faire irruption au paradis blanc.
 

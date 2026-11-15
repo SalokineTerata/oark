@@ -3,7 +3,7 @@
 > *« Entrée 012 — Tentative d'application du protocole dit "Humour de garnison". Objectif : abaisser le taux de cortisol plasmatique de l'organisme Koda-09 avant l'infiltration d'un périmètre hostile. Formule employée : corrélation statistique entre le chlorure de sodium du substrat et l'état psychologique de désespoir, conformément aux archives de l'unité Bricole. Résultat : bien que ma proposition fût chimiquement exacte et dépourvue d'incongruité voulue, le sujet a souri et sa fréquence cardiaque a diminué de 11 battements par minute. Le mécanisme demeure incompréhensible. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![Dans le hangar nocturne de Boréal-9, Koda baisse son arme devant les mains tachées de cambouis du jeune Tali.](../illustrations/livre-ii/08-01.png){.chapter-illustration}
+![Dans le hangar nocturne de Boréal-9, Koda baisse son arme devant les mains tachées de cambouis du jeune Tali.](../../illustrations/livre-ii/08-01.png){.chapter-illustration}
 
 Contrairement aux casemates de béton gris que Condorcé coulait dans la roche comme des dents de fer, l’avant-poste afistéaan de *Boréal-9* — inscrit sous le code Krav-4 sur les cartes d’état-major plotéris — ressemblait à une colonie de scarabées géants blottis au creux d’un cirque de dunes.
 

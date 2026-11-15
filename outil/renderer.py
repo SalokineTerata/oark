@@ -145,8 +145,8 @@ def synthesize_chapter(segments: list[dict], profiles: dict[str, int], voice: Pi
 
 
 def render_book(root: Path, number: str, paths: list[Path], voice: PiperVoice, automatic: bool = False) -> Path:
-    directory = root / "exports" / "orientations" / f"Livre-{number}"
-    profiles_path = root / "exports" / "orientations" / "voix.json"
+    directory = root / "exports-audiobook" / "orientations" / f"Livre-{number}"
+    profiles_path = root / "voix" / "voix.json"
     profiles = load_profiles(profiles_path)
     documents = []
     for index, source in enumerate(paths, 1):
@@ -157,7 +157,7 @@ def render_book(root: Path, number: str, paths: list[Path], voice: PiperVoice, a
                 raise ValueError(f"Voix manquante pour {segment['locuteur']} dans {profiles_path}")
             prosody(segment)
         documents.append(data)
-    cache = root / "exports" / "temp_audio" / f"orientation-livre-{number}"
+    cache = root / "exports-audiobook" / "temp_audio" / f"orientation-livre-{number}"
     cache.mkdir(parents=True, exist_ok=True)
     chapters = []
     for index, data in enumerate(documents, 1):
@@ -170,7 +170,7 @@ def render_book(root: Path, number: str, paths: list[Path], voice: PiperVoice, a
             continue
         print(f"Livre {number}, chapitre {index}/{len(paths)} : {data['segments'][0]['texte']}", flush=True)
         synthesize_chapter(data["segments"], profiles, voice, chapter)
-    target = root / "exports" / f"Livre-{number}_Audiobook.mp3"
+    target = root / "exports-audiobook" / f"Livre-{number}_Audiobook.mp3"
     assemble(chapters, target, silence_ms=1200)
     for chapter in chapters:
         chapter.unlink()

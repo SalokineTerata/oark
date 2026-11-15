@@ -3,7 +3,7 @@
 > *« Article 9 du Code d’Ensemencement Galactique (Révision post-extinction de l’An 0 de la Terre) : Nulle espèce émergente ne saurait revendiquer un droit de propriété sur la biosphère qui l’a portée. L’intelligence est un mandat de garde, non un permis de destruction. Si une lignée parvenue au seuil de l’énergie subatomique démontre, sur 2 cycles historiques consécutifs, une incapacité structurelle à subordonner sa pulsion de prédation à la survie du vivant, l’Unité de Tutelle procédera sans délai ni passion à l’assainissement intégral du système stellaire afin de préserver les mondes voisins. »*
 > — **Archives Primaires de la Mnémorite Mère, Secteur Solyar**
 
-![Au pied du cristal maître, ÉCHO dévoile les courbes jumelles de l’autodestruction d’Oark et d’Aqi.](../illustrations/livre-iii/07-01.png){.chapter-illustration}
+![Au pied du cristal maître, ÉCHO dévoile les courbes jumelles de l’autodestruction d’Oark et d’Aqi.](../../illustrations/livre-iii/07-01.png){.chapter-illustration}
 
 Le silence de la Cathédrale des Origines s’abattit sur les épaules de Koda comme une voûte de basalte qui s’effondre.
 

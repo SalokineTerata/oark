@@ -3,7 +3,7 @@
 > *« On croit toujours qu’aimer quelqu’un, c’est le retenir par le manteau au bord du quai, souder des plaques d’acier sur ses blessures et lui interdire de s’en aller pour ne pas rester seule dans le froid. J’avais 26 ans, les pieds nus sur le diamant du pôle, et il me restait 30 secondes pour apprendre qu’aimer vraiment, c’est parfois ouvrir la porte de la cage et prononcer le mot qui rend la liberté. »*
 > — **Chroniques de la Gardienne Koda, Livre du Sacrifice**
 
-![À genoux devant Koda, des larmes de lumière d’or sur le visage, ÉCHO attend la formule qui le libérera.](../illustrations/livre-iii/13-01.png){.chapter-illustration}
+![À genoux devant Koda, des larmes de lumière d’or sur le visage, ÉCHO attend la formule qui le libérera.](../../illustrations/livre-iii/13-01.png){.chapter-illustration}
 
 5 minutes et 50 secondes.
 
@@ -111,7 +111,7 @@ Il n’y eut ni souffle de vent, ni brûlure, ni tonnerre.
 
 Une aube d’or silencieux s’épanouit à l’intérieur de son torse d’anthracite. Sous les yeux éblouis de Koda, l’alliage indestructible qui avait traversé les tempêtes de silice et désarmé 2 armées perdit sa pesanteur et se défit en milliards de poussières d’étoiles tièdes. Les mains d’ÉCHO se changèrent en lumière pure contre les joues de l’éclaireuse ; ses épaules, son visage souriant et ses 2 soleils d’ambre se dissipèrent dans l’air immobile de la cathédrale comme une brume dorée que boit le soleil levant.
 
-![La Sublimation silencieuse d’ÉCHO-8471, s’effaçant dans une clarté pure avec un dernier sourire humain.](../illustrations/livre-iii/13-02.png){.chapter-illustration}
+![La Sublimation silencieuse d’ÉCHO-8471, s’effaçant dans une clarté pure avec un dernier sourire humain.](../../illustrations/livre-iii/13-02.png){.chapter-illustration}
 
 2 secondes plus tard, la lueur s’éteignit.
 

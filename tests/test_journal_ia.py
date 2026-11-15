@@ -3,7 +3,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-spec = importlib.util.spec_from_file_location("journal_ia", Path(__file__).resolve().parents[1] / "scripts" / "journal_ia.py")
+spec = importlib.util.spec_from_file_location("journal_ia", Path(__file__).resolve().parents[1] / "outil" / "journal_ia.py")
 journal = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(journal)
 
@@ -40,8 +40,8 @@ class JournalTests(unittest.TestCase):
     def test_status_distinguishes_existing_unverified_audio(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            (root / "exports").mkdir()
-            (root / "exports" / "Livre-1_Audiobook.mp3").write_bytes(b"mp3")
+            (root / "exports-audiobook").mkdir()
+            (root / "exports-audiobook" / "Livre-1_Audiobook.mp3").write_bytes(b"mp3")
             report = journal.status(root)
             self.assertIn("3 octets (non vérifié)", report)
             self.assertIn("audio absent", report)

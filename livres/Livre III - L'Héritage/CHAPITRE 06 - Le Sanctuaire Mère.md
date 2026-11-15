@@ -3,7 +3,7 @@
 > *« Nous qui avions grandi sous les plafonds bas des dômes de béton d’Aqi, la tête rentrée dans les épaules de peur que la voûte de glace ne nous tombe sur le crâne, nous croyions savoir ce qu’était une cathédrale. Nous appelions ainsi nos hangars de fonderie où pendaient 3 bannières noircies de suie. Mais lorsque je me suis penchée au-dessus du puits polaire d’Oark, j’ai compris que nos villes n’étaient que des terriers creusés dans la poussière d’un parvis dont nous avions oublié les architectes. »*
 > — **Chroniques de la Gardienne Koda, Livre des Origines**
 
-![La descente vertigineuse dans la Cathédrale des Origines jusqu’à l’icosaèdre géant de la Mnémorite Mère.](../illustrations/livre-iii/06-01.png){.chapter-illustration}
+![La descente vertigineuse dans la Cathédrale des Origines jusqu’à l’icosaèdre géant de la Mnémorite Mère.](../../illustrations/livre-iii/06-01.png){.chapter-illustration}
 
 Au sommet du monde, la tempête s’arrêta net, comme tranchée au fil d’un rasoir.
 

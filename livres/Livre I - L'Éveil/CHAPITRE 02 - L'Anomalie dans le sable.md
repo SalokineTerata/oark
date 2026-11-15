@@ -3,7 +3,7 @@
 > *« Article 14, alinéa 3 : Tout prospecteur relevant une structure manufacturée antérieure à l’Exode ou présentant une signature énergétique anormale doit interrompre immédiatement le chantier, baliser le périmètre à 100 mètres et alerter l’officier de sécurité sectoriel. Toute manipulation, ouverture ou soustraction d’artefact relève du tribunal militaire d’exception pour entrave à l’effort de survie thermique. »*
 > — **Code d’Exploration Minière et Technologique du Conglomérat Condorcé, Édition de Guerre**
 
-![Dans l'atelier de la Zone Zêta-3, Koda et Bricole préparent la seconde expédition vers le sanctuaire.](../illustrations/livre-i/02-01.jpg){.chapter-illustration}
+![Dans l'atelier de la Zone Zêta-3, Koda et Bricole préparent la seconde expédition vers le sanctuaire.](../../illustrations/livre-i/02-01.jpg){.chapter-illustration}
 
 La tempête de la nuit avait redessiné le monde.
 

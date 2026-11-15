@@ -3,7 +3,7 @@
 > *« Dis donc, Lina, devine ce que j'ai trouvé ce matin au fond de mon casque ? Non, pas un scorpion d'Oark, t'es bête, il fait moins 52 ici, même les microbes portent des moufles en laine ! Non, j'ai trouvé le biscuit de synthèse que tu m'avais glissé dans ma doublure avant mon départ de la gare du Dôme 4. Il était tellement gelé que le sergent Darnel s'est cassé une couronne dessus. Si tu tousses encore ce soir, je t'interdis de rire… enfin, juste un petit peu, sous ta couverture. »*
 > — **Cassettes magnétiques du caporal Soren Valen, Bobine n° 14 (Archives du Dôme 4 de Plotéris)**
 
-![Dans les tranchées de glace bleue du Glacier d’Ostre, le caporal Soren Valen enregistre une cassette pour sa petite sœur Lina.](../illustrations/livre-ii/03-01.png){.chapter-illustration}
+![Dans les tranchées de glace bleue du Glacier d’Ostre, le caporal Soren Valen enregistre une cassette pour sa petite sœur Lina.](../../illustrations/livre-ii/03-01.png){.chapter-illustration}
 
 Sur le Front du Glacier d’Ostre, on ne creusait pas la terre : on sculptait son propre cercueil dans de l’eau morte depuis 100 000 ans.
 

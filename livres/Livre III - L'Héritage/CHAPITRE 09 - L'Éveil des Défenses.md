@@ -3,7 +3,7 @@
 > *« Nous avions apporté au sommet du monde tout ce que 3 siècles de génie militaire avaient su forger : des canons à accélération magnétique, des ogives thermobariques et des blindages en carbure de bore. Lorsque les 6 tours noires sont sorties de la glace sans un bruit de moteur, j’ai compris ce que devait ressentir une colonne de fourmis brandissant ses mandibules devant le soc d’une charrue. »*
 > — **Carnets personnels du Général Vane, épilogue de la Caldera**
 
-![Au milieu du déluge, Borras arrache le jeune sapeur ennemi Yoren aux flammes de son blindé et le protège de son propre corps.](../illustrations/livre-iii/09-01.png){.chapter-illustration}
+![Au milieu du déluge, Borras arrache le jeune sapeur ennemi Yoren aux flammes de son blindé et le protège de son propre corps.](../../illustrations/livre-iii/09-01.png){.chapter-illustration}
 
 À 1 000 mètres sous la banquise déchirée du pôle Nord d’Oark, le silence de la Cathédrale des Origines n’était plus celui d’un tombeau : c’était l’inspiration profonde d’un titan qui s’éveille après 10 000 ans de coma.
 

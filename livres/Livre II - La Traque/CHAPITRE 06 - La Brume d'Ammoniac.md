@@ -3,7 +3,7 @@
 > *« On nous apprend à l'instruction que le soldat afistéaan n'a pas le même sang que nous, qu'il sent le soufre et qu'il ne craint pas le gel. Cette nuit, au fond du trou, j'ai vu ses mains sans ses moufles : il avait exactement les mêmes engelures violettes que moi autour des ongles, et quand il m'a montré la photo de sa mère et de sa petite sœur Maren devant les fourneaux éteints de Val-Noir, j'ai cru voir notre propre chambre au Dôme 4, Lina. Ne répète jamais ça à personne à l'école, promis ? »*
 > — **Cassettes magnétiques du caporal Soren Valen, Bobine n° 15 (Non transmise — Conservée dans sa capote)**
 
-![Au fond d’une crevasse du Glacier d’Ostre, deux ennemis anonymes partagent une cartouche chauffante pour survivre à la nuit.](../illustrations/livre-ii/06-01.png){.chapter-illustration}
+![Au fond d’une crevasse du Glacier d’Ostre, deux ennemis anonymes partagent une cartouche chauffante pour survivre à la nuit.](../../illustrations/livre-ii/06-01.png){.chapter-illustration}
 
 À minuit, sur le Glacier d’Ostre, le froid cessa d’être une température pour devenir une bête vivante qui cherchait à mordre.
 

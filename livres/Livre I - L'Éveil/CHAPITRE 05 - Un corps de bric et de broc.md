@@ -3,7 +3,7 @@
 > *« Règle numéro un de la récupération en zone aride : il n’existe pas de pièce incompatible, il n’existe que des mécaniciens qui manquent d’imagination ou de ruban isolant. Si un réacteur de drone refuse de rentrer dans un carter de pompe à boue, prends un marteau plus lourd. S’il couine au démarrage, c’est la preuve qu’il est vivant. »*
 > — **Carnet d’établi de l’Éclaireuse Koda (Mat. 44-K), note en marge d’un schéma d’assemblage illicite**
 
-![Dans la tempête de neige, le marcheur bipède géant avance silencieusement derrière la petite silhouette de Koda.](../illustrations/livre-i/05-01.jpg){.chapter-illustration}
+![Dans la tempête de neige, le marcheur bipède géant avance silencieusement derrière la petite silhouette de Koda.](../../illustrations/livre-i/05-01.jpg){.chapter-illustration}
 
 Il fallut 48 heures de double vie, 3 bobines d’étain à l’argent, 2 brûlures du second degré au pouce gauche et une quantité déraisonnable de jurons étouffés pour accoucher du prodige le plus laid de toute l’histoire de la robotique.
 

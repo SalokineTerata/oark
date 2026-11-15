@@ -3,7 +3,7 @@
 > *« Tant que j’ai gardé le fusil des anciens Oarkins serré contre ma poitrine, je n’étais qu’une bête de plus dans la cage, hurlant après son geôlier parce qu’il avait un bâton plus lourd que le sien. Pour avoir le droit de demander des comptes à un dieu qui vous accuse de meurtre, il faut commencer par ouvrir les doigts et laisser tomber le fer. »*
 > — **Chroniques de la Gardienne Koda, Livre du Jugement**
 
-![Koda jette au sol ses armes de l’Âge d’Or et engage le duel moral de la dernière chance.](../illustrations/livre-iii/10-01.png){.chapter-illustration}
+![Koda jette au sol ses armes de l’Âge d’Or et engage le duel moral de la dernière chance.](../../illustrations/livre-iii/10-01.png){.chapter-illustration}
 
 Les tremblements de la voûte avaient cessé.
 

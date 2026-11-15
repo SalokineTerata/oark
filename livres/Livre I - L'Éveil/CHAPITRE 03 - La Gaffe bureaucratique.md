@@ -3,7 +3,7 @@
 > *« On croit toujours que les catastrophes commencent par une trahison, un coup de feu ou un ordre d’état-major. C’est faux. Sur une base avancée, 9 tragédies sur 10 commencent à 19 heures 15, entre deux gorgées de chicorée tiède, quand un soldat qui a trop froid au cœur raconte sa journée à un ami qui remplit trop bien ses bordereaux. »*
 > — **Mémoires apocryphes du Sergent-Chef Jaro, recueillis après la campagne du Secteur Zêta**
 
-![ÉCHO-8471 s'éveille sur son socle de verre noir, ses capteurs d'ambre et d'or s'allumant pour la première fois.](../illustrations/livre-i/03-01.jpg){.chapter-illustration}
+![ÉCHO-8471 s'éveille sur son socle de verre noir, ses capteurs d'ambre et d'or s'allumant pour la première fois.](../../illustrations/livre-i/03-01.jpg){.chapter-illustration}
 
 La tempête annoncée par la météo orbitale frappa Zêta-3 à la tombée du jour, transformant les 5 modules octogonaux en caisses de résonance.
 

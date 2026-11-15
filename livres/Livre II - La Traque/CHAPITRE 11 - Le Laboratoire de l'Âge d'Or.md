@@ -3,7 +3,7 @@
 > *« Ne cherchez pas les palais de nos pères sous les vents du nord ; là-bas, même la pierre a oublié qu'elle fut bâtie. Mais au fond du cratère où le ciel est tombé, sous 300 coudées de verre mort, la lumière qu'ils avaient solidifiée attend encore le pas de ceux qui n'ont pas peur des fantômes. »*
 > — **Chants des Veilleurs de Cendres de Lyss, Livre des Fondations Perdues**
 
-![La descente dans le complexe intact de l’Âge d’Or Oarkin, sculpté de lumière solide et de courbes sans jointures.](../illustrations/livre-ii/11-01.png){.chapter-illustration}
+![La descente dans le complexe intact de l’Âge d’Or Oarkin, sculpté de lumière solide et de courbes sans jointures.](../../illustrations/livre-ii/11-01.png){.chapter-illustration}
 
 Le Bassin de Kélar ne ressemblait pas au reste d’Oark. Ici, même le sable était mort.
 

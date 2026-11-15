@@ -13,7 +13,7 @@ MODELS = {
 
 
 def main() -> None:
-    root = Path(__file__).resolve().parent / "models"
+    root = Path(__file__).resolve().parent.parent / "models"
     names = sys.argv[1:] or list(MODELS)
     for name in names:
         for attempt in range(1, 61):

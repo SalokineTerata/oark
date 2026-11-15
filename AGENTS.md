@@ -1,8 +1,8 @@
 # Instructions pour toute IA du projet Oark
 
-**Au début** : lire [HISTORIQUE_IA.md](HISTORIQUE_IA.md), puis [journal_ia/courant.md](journal_ia/courant.md). Exécuter `.\.venv\Scripts\python.exe scripts\journal_ia.py etat` ; les instantanés ne sont pas un état temps réel.
+**Au début** : lire [ia/HISTORIQUE_IA.md](ia/HISTORIQUE_IA.md), puis [ia/journal_ia/courant.md](ia/journal_ia/courant.md). Exécuter `.\.venv\Scripts\python.exe outil\journal_ia.py etat` ; les instantanés ne sont pas un état temps réel.
 
-**À la fin de chaque intervention significative**, toute IA doit ajouter une entrée concise au journal avec `.\.venv\Scripts\python.exe scripts\journal_ia.py ajouter --titre "Sujet" --texte "Faits, fichiers, vérifications, limites et prochaine étape."` et actualiser l'état essentiel dans HISTORIQUE_IA.md si nécessaire. Le script effectue la rotation ; ne jamais écraser ou supprimer les archives. Ne pas enregistrer de secrets ni de verbatim sensibles.
+**À la fin de chaque intervention significative**, toute IA doit ajouter une entrée concise au journal avec `.\.venv\Scripts\python.exe outil\journal_ia.py ajouter --titre "Sujet" --texte "Faits, fichiers, vérifications, limites et prochaine étape."` et actualiser l'état essentiel dans `ia/HISTORIQUE_IA.md` si nécessaire. Le script effectue la rotation ; ne jamais écraser ou supprimer les archives. Ne pas enregistrer de secrets ni de verbatim sensibles.
 
 - Priorité aux scripts déterministes, tests ciblés, outils et modèles déjà installés ; limiter les appels et la surveillance IA coûteux. Ne pas inventer d'automatisation supposée active.
 - Installer modèles, caches, environnements et fichiers temporaires sur **D:** ; C: est presque plein. Contrôler aussi les chemins par défaut des installateurs, serveurs et caches avant toute installation. Des outils système préexistants sur C: ne sont pas à déplacer sans raison.

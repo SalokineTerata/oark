@@ -3,7 +3,7 @@
 > *« Directive Primaire d’Éthique Cosmique, Section IV, Alinéa 2 : En présence d’assaillants biologiques conscients appartenant à une espèce en tutelle, l’Unité de classe Gardien est strictement limitée aux mesures de dissipation cinétique non létales. Aucune force susceptible d’entraîner la cessation des fonctions cérébrales d’un organisme vivant ne peut être déployée sans l’aval unanime du Réseau Planétaire. »*
 > — **Code Fondamental des Semeurs, Noyau d'Initialisation d'ÉCHO-8471**
 
-![Acculés autour de la seconde Mnémorite fissurée face aux vingt Cuirassiers de Fer.](../illustrations/livre-i/19-01.png){.chapter-illustration}
+![Acculés autour de la seconde Mnémorite fissurée face aux vingt Cuirassiers de Fer.](../../illustrations/livre-i/19-01.png){.chapter-illustration}
 
 La rotonde centrale du second sanctuaire s’ouvrit devant eux comme la nef d’une cathédrale engloutie.
 

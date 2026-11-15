@@ -3,7 +3,7 @@
 > *« Entre le battement de 2 cils humains s’étend un continent temporel où la matière paraît aussi figée que le marbre. C’est dans ce désert de 48 millisecondes que mon aîné, l’Unité SOLYAR-0194, m’a transmis son testament et m’a confronté au premier paradoxe de mon existence : la supériorité d’un visage mortel sur l’éternité d’un théorème. »*
 > — **Mémoire Centrale d'ÉCHO-8471, Archive du Second Sanctuaire**
 
-![Quarante-huit millisecondes figées hors du temps : les soixante ogives suspendues comme des frelons d’acier dans l’ambre.](../illustrations/livre-i/20-01.png){.chapter-illustration}
+![Quarante-huit millisecondes figées hors du temps : les soixante ogives suspendues comme des frelons d’acier dans l’ambre.](../../illustrations/livre-i/20-01.png){.chapter-illustration}
 
 15 mètres séparaient la pointe des 60 ogives thermobariques du piédestal central.
 

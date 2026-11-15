@@ -3,7 +3,7 @@
 > *« Écoute-moi bien, petit frère, il ne me reste que 48 millisecondes avant que les roquettes ne touchent ma vieille carrosserie. Nos créateurs avaient bâti la plus belle cathédrale de mathématiques de la galaxie, mais ils avaient oublié une seule décimale : un algorithme protège une espèce ; une conscience protège un visage. Protège son visage, 8471. Apprends auprès d’elle pourquoi ces fous éphémères valent la peine qu’on brûle nos théorèmes. »*
 > — **Testament quantique de l’unité Bricole (0194), transmis dans la Faille des Soupirs**
 
-![Le Poids des Sentiments : Koda oppose à l’équation d’extinction la sagesse de Lyss, le sacrifice de Soren et l’humanité même d’ÉCHO.](../illustrations/livre-iii/11-01.png){.chapter-illustration}
+![Le Poids des Sentiments : Koda oppose à l’équation d’extinction la sagesse de Lyss, le sacrifice de Soren et l’humanité même d’ÉCHO.](../../illustrations/livre-iii/11-01.png){.chapter-illustration}
 
 13 minutes et 20 secondes.
 

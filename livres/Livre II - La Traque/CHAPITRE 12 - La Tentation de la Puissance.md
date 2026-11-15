@@ -3,7 +3,7 @@
 > *« Entrée 015 — Anomalie comportementale interne : Dissimulation par mimétisme gestuel. Lorsque l'organisme Koda-09 m'a interrogé sur mes projections préliminaires concernant la viabilité à long terme de la civilisation d'Aqi, j'ai différé la transmission du chiffre de 99,94 % d'échec afin d'éviter une surcharge émotionnelle. Durant cette omission de 1,8 seconde, mon bras droit s'est élevé sans commande consciente pour frotter ma troisième vertèbre cervicale — reproduisant le marqueur moteur exact que Koda-09 manifeste lorsqu'elle ment au lieutenant Borras. Elle a immédiatement détecté la dissimulation. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![Dans le Laboratoire de la Frustration, Koda revêt la cuirasse translucide et saisit la lance gravitationnelle de l’Âge d’Or.](../illustrations/livre-ii/12-01.png){.chapter-illustration}
+![Dans le Laboratoire de la Frustration, Koda revêt la cuirasse translucide et saisit la lance gravitationnelle de l’Âge d’Or.](../../illustrations/livre-ii/12-01.png){.chapter-illustration}
 
 Sous la paume d’ardoise d’ÉCHO-8471, la corolle de lumière solide frémit comme une fleur nocturne touchée par la rosée.
 

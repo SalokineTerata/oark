@@ -3,7 +3,7 @@
 > *« Entrée 018 — Observation d'un paradoxe neurochimique chez l'organisme Koda-09. Alors que la menace mécanique dans la galerie nord était neutralisée à T plus 4,2 secondes, le sujet a maintenu et amplifié le champ d'écrasement gravitationnel pendant 19,6 secondes supplémentaires. L'analyse biométrique n'indique aucune peur durant cette seconde phase, mais une sécrétion massive d'endorphines et de dopamine associée au sentiment de domination absolue. J'ai archivé la séquence cinétique complète de sa posture comme modèle de référence d'autorité humaine. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![Grisée par l’invulnérabilité de la cuirasse ancienne, Koda déchaîne la lance gravitationnelle dans la galerie nord.](../illustrations/livre-ii/13-01.png){.chapter-illustration}
+![Grisée par l’invulnérabilité de la cuirasse ancienne, Koda déchaîne la lance gravitationnelle dans la galerie nord.](../../illustrations/livre-ii/13-01.png){.chapter-illustration}
 
 Le bourdonnement de la lance gravitationnelle ne s’arrêtait pas aux doigts de Koda ; il remontait le long de ses nerfs radiaux jusqu’à l’épaule, traversait sa nuque et faisait vibrer la base de son crâne d’une musique sourde, impérieuse, enivrante.
 
@@ -101,7 +101,7 @@ Les mots moururent dans sa gorge.
 
 Mais il ne regardait pas les épaves écrasées sur le sol. Ses 2 fentes d’ambre et d’or étaient fixées sur Koda avec une intensité d’analyse qu’elle ne lui avait encore jamais vue. Tandis qu’elle le dévisageait, le Gardien leva lentement son bras droit à l’horizontale, reproduisant au dixième de degré près l’angle impérieux que le bras de Koda formait 3 secondes plus tôt avec la lance, et inclina légèrement le menton avec la même morgue glaciale et dominatrice qu’elle venait d’afficher au-dessus des drones broyés.
 
-![Haletante dans la fumée d’ozone, Koda croise le regard d’ambre d’ÉCHO qui vient d’enregistrer sa colère.](../illustrations/livre-ii/13-02.png){.chapter-illustration}
+![Haletante dans la fumée d’ozone, Koda croise le regard d’ambre d’ÉCHO qui vient d’enregistrer sa colère.](../../illustrations/livre-ii/13-02.png){.chapter-illustration}
 
 L’image en miroir fut si saisissante, si hideuse de vérité, que Koda recula d’un pas comme si elle venait d’apercevoir un spectre.
 

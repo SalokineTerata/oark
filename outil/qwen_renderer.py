@@ -15,7 +15,7 @@ from assembler import assemble
 from orientation import atomic_json, read_orientation
 
 RENDER_VERSION = "qwen-v1"
-MODEL_DIR = Path(__file__).resolve().parent / "models" / "Qwen3-TTS-1.7B-CustomVoice-fp16"
+MODEL_DIR = Path(__file__).resolve().parent.parent / "models" / "Qwen3-TTS-1.7B-CustomVoice-fp16"
 SAMPLE_RATE = 24000
 BATCH = 8
 MAX_CHARS = 240
@@ -226,11 +226,11 @@ def validate(path: Path, source: Path, index: int, profiles: dict[str, dict]) ->
 
 
 def render_book(root: Path, number: str, paths: list[Path], engine: Engine | None = None) -> Path:
-    directory = root / "exports" / "orientations" / f"Livre-{number}"
-    profiles = load_profiles(root / "exports" / "orientations" / "voix.json")
+    directory = root / "exports-audiobook" / "orientations" / f"Livre-{number}"
+    profiles = load_profiles(root / "voix" / "voix.json")
     documents = [validate(directory / f"chapitre-{i:03d}.json", source, i, profiles)
                  for i, source in enumerate(paths, 1)]
-    cache = root / "exports" / "temp_audio" / f"qwen-livre-{number}"
+    cache = root / "exports-audiobook" / "temp_audio" / f"qwen-livre-{number}"
     cache.mkdir(parents=True, exist_ok=True)
     chapters = []
     for index, data in enumerate(tqdm(documents, desc=f"Livre {number}", unit="chapitre"), 1):
@@ -243,6 +243,6 @@ def render_book(root: Path, number: str, paths: list[Path], engine: Engine | Non
         engine = engine or Engine()
         print(f"Livre {number}, chapitre {index}/{len(paths)} : {data['segments'][0]['texte']}", flush=True)
         render_chapter(data["segments"], profiles, engine, chapter)
-    target = root / "exports" / f"Livre-{number}_Audiobook.mp3"
+    target = root / "exports-audiobook" / f"Livre-{number}_Audiobook.mp3"
     assemble(chapters, target, silence_ms=1200)
     return target

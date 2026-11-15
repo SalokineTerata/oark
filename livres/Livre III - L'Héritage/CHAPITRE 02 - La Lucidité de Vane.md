@@ -3,7 +3,7 @@
 > *« … Tu entends ce gros sifflement derrière ma voix, Lina ? Non, n’aie pas peur, ce n’est pas le monstre du couloir, c’est juste la vieille bouilloire du Mur d’Ostre qui fait des siennes. J’ai bloqué la pédale du transmetteur et coincé le volant de la vanne B-12 avec ma clé de 12 ; le train sanitaire du Dôme 4 vient de passer l’aiguillage, tu vas avoir du chauffage jusqu’au printemps, petite sœur. Et tu sais quoi ? Hier soir, au fond d’une crevasse, un gars d’en face qui grelottait autant que moi m’a laissé son attelle pour que je puisse remonter. Promets-moi juste un truc quand il fera chaud : ne pleure pas devant la radio, et garde-moi un bocal de ce sable orange d’Oark dont ils parlent aux actualités. Il paraît que là-bas, le soleil est si grand qu’on peut marcher pieds nus dedans sans jamais avoir d’engelures… »*
 > — **Archive radio d’urgence #884-Ostre (durée : 47 secondes), émise par le caporal-sapeur Soren « Demi-Volt » Valen depuis la vanne géothermique B-12 et relayée par la boîte noire des transmissions orbitales d’Aqi**
 
-![Au QG de Condorcé, Borras écoute l’archive radio de quarante-sept secondes de la vanne B-12 tandis que Vane résout l’équation polaire.](../illustrations/livre-iii/02-01.png){.chapter-illustration}
+![Au QG de Condorcé, Borras écoute l’archive radio de quarante-sept secondes de la vanne B-12 tandis que Vane résout l’équation polaire.](../../illustrations/livre-iii/02-01.png){.chapter-illustration}
 
 Il n’y avait pas de fenêtres dans l’Anneau de Commandement Orbital de Condorcé, seulement le battement glacé des horloges numériques, le ronronnement sourd des refroidisseurs d’azote et l’odeur aigre de l’ozone qui stagnait sous les coupoles blindées.
 

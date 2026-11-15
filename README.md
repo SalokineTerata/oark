@@ -4,16 +4,21 @@ Dépôt officiel du projet **Oark** : manuscrits, illustrations, exports EPUB/PD
 
 ## Structure du projet
 
-- **`cadre/`** : Bibles d'univers et de personnages, trames narratives, plans détaillés par tome, charte d'écriture V2 et plan directeur (52 chapitres).
-- **`livres/`** : Édition Référence active (V2 — 52 chapitres et 58 illustrations fusain & pastel dans `livres/illustrations/`).
-- **`exports/`** : Livrables générés actifs (3 EPUB3 illustrés : *Livre I - L'Éveil*, *Livre II - La Traque*, *Livre III - L'Héritage*, et orientations audio).
-- **`archives/`** : Documents canoniques de référence et ancienne version V1 archivée (`archives/v1/` : manuscrits V1, illustrations V1 et anciens exports EPUB/PDF).
-- **`scripts/`**, **`tests/`**, **`*.py`** : Scripts déterministes de construction EPUB (`scripts/build_books_v2.py`), de journalisation (`scripts/journal_ia.py`) et pipeline audiobook local (`main_audiobook.py`).
-- **`HISTORIQUE_IA.md`**, **`STUDIO_IA.md`**, **`AGENTS.md`**, **`journal_ia/`** : Documentation de reprise, architecture et journal rotatif des IA.
+- **`cadre/`** : Documents cadres — bibles d'univers et de personnages, trames narratives, plans détaillés, charte d'écriture V2 et plan directeur (52 chapitres).
+- **`livres/`** : Référentiel des livres (fichiers `.md` de l'Édition Référence V2 : *Livre I - L'Éveil*, *Livre II - La Traque*, *Livre III - L'Héritage*).
+- **`illustrations/`** : Référentiel des illustrations (58 illustrations fusain & pastel + `manifest_v2.json`).
+- **`exports-epub/`** : Export des livres en EPUB3 illustrés.
+- **`exports-audiobook/`** : Export des audiobooks et orientations JSON (`orientations/`).
+- **`voix/`** : Référentiel des voix de synthèse (`voix.json` et modèles vocaux locaux).
+- **`outil/`** : Boîte à outils Python (tout le code source du projet, CSS, `requirements.txt` et scripts utilitaires).
+- **`tests/`** : Suite de tests unitaires.
+- **`ia/`** : Configuration et historisation pour les IA (`HISTORIQUE_IA.md`, `STUDIO_IA.md`, `journal_ia/`).
+- **`archives/`** : Archives canoniques (`.docx`) et ancienne version V1 (`archives/v1/`).
+- **`.agents/`** & **`AGENTS.md`** : Règles, skills et hooks Antigravity (à la racine pour la découverte automatique).
 
 ## Prérequis techniques (outillage local)
 
-Les modèles IA volumineux (`models/`), voix (`voices/`) et l'environnement virtuel (`.venv/`) sont exclus de ce dépôt via `.gitignore`. Consultez `STUDIO_IA.md` et `requirements.txt` pour la configuration locale.
+Les modèles IA volumineux (`models/`), fichiers audio de voix (`voix/*` hors `voix.json`), caches (`exports-audiobook/temp_audio/`) et l'environnement virtuel (`.venv/`) sont exclus de ce dépôt via `.gitignore`. Consultez `ia/STUDIO_IA.md` et `outil/requirements.txt` pour la configuration locale.
 
 ## Licences
 

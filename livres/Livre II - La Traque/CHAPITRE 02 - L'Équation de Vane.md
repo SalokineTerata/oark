@@ -3,7 +3,7 @@
 > *« On m'accuse dans les salons tièdes du Directoire d'avoir remplacé mon cœur par un boulier d'acier. Ces messieurs ignorent qu'à moins 50 degrés, la pitié gèle plus vite que le sang. Quand il ne reste dans la soute que de quoi chauffer 3 berceaux sur 10, l'homme qui pleure en refusant de choisir tue les 10 enfants. L'homme qui tourne la vanne n'en tue que 7. C'est pour porter la honte de ces sept-là que je porte cet uniforme. »*
 > — **Carnets personnels du Général Vane, Hiver de la 41e année de guerre**
 
-![Dans le bunker glacé de Plotéris sur Aqi, le Général Vane porte le poids des dômes civils menacés par le gel.](../illustrations/livre-ii/02-01.png){.chapter-illustration}
+![Dans le bunker glacé de Plotéris sur Aqi, le Général Vane porte le poids des dômes civils menacés par le gel.](../../illustrations/livre-ii/02-01.png){.chapter-illustration}
 
 À 400 millions de kilomètres du désert d’Oark, le monde mourait par le gel.
 

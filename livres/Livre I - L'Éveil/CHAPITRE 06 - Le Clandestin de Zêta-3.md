@@ -3,7 +3,7 @@
 > *« On m’a souvent demandé comment 15 vétérans de Condorcé, enfermés dans 5 boîtes d’acier de 40 mètres carrés avec des capteurs sismiques à chaque cloison, avaient pu cohabiter pendant 72 heures avec l’artefact le plus précieux de l’histoire connue sans s’en apercevoir. La réponse tient en 2 mots : Koda chantait faux, et mes soudures n’avaient jamais été aussi belles. »*
 > — **Déposition du Sergent-Chef Jaro devant la Commission d’Enquête Sectorielle (Extrait déclassifié)**
 
-![Bricole, perché sur son tapis de feutre, connecte son interface optique aux glyphes lumineux du sanctuaire.](../illustrations/livre-i/06-01.jpg){.chapter-illustration}
+![Bricole, perché sur son tapis de feutre, connecte son interface optique aux glyphes lumineux du sanctuaire.](../../illustrations/livre-i/06-01.jpg){.chapter-illustration}
 
 Cacher un caillou muet au fond d’une sacoche plombée était un jeu d’enfant ; cacher une conscience vieille de plusieurs millénaires, montée sur 2 chenilles dépareillées et possédée par une soif inextinguible de comprendre son environnement, relevait de l’équilibrisme sur un baril de poudre.
 

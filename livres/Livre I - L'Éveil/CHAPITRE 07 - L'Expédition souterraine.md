@@ -3,7 +3,7 @@
 > *« Les cartes orbitales de Condorcé prétendent couvrir 98 % de la surface d’Oark. C’est l’orgueil ordinaire de ceux qui volent trop haut : ils photographient la peau ridée du désert et croient connaître le cadavre, sans se douter que le basalte profond arrête nos radars à 20 mètres et que l’essentiel de ce monde s’est toujours joué sous la pierre. »*
 > — **Carnet d’établi de l’Éclaireuse Koda (Mat. 44-K), notes sur la dorsale nord-est**
 
-![Devant la stèle fracturée, Koda et ÉCHO contemplent l'archive holographique d'une métropole disparue.](../illustrations/livre-i/07-01.jpg){.chapter-illustration}
+![Devant la stèle fracturée, Koda et ÉCHO contemplent l'archive holographique d'une métropole disparue.](../../illustrations/livre-i/07-01.jpg){.chapter-illustration}
 
 L’aube sur Oark avait la couleur du cuivre en fusion.
 

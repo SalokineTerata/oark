@@ -3,7 +3,7 @@
 > *« On enseigne dans les écoles de guerre de Plotéris que le courage d’un commandant en chef se mesure au nombre de régiments qu’il est capable d’envoyer à la mort sans trembler. C’est un mensonge d’état-major. Envoyer de jeunes garçons mourir à votre place est la chose la plus facile du monde : il suffit d’un tampon humide et d’une porte blindée. Le seul vrai courage que j’aurai connu en 40 ans d’uniforme aura été de décrocher un téléphone interdit pour supplier mon ennemi mortel de me croire, en sachant par avance que ma propre vanité passée lui interdirait de m’écouter. »*
 > — **Carnets personnels du Général Vane, dernière entrée avant l’Opération Pôle**
 
-![Au péril de la cour martiale, Vane brise les scellés du Canal Zéro pour proposer une trêve à l’ennemi.](../illustrations/livre-iii/04-01.png){.chapter-illustration}
+![Au péril de la cour martiale, Vane brise les scellés du Canal Zéro pour proposer une trêve à l’ennemi.](../../illustrations/livre-iii/04-01.png){.chapter-illustration}
 
 Depuis 17 ans que durait la Guerre des Glaces entre Condorcé et la Coalition Afistéanne, aucun officier supérieur n’avait composé la séquence d’appel du Canal Zéro sans y laisser ses épaulettes ou sa vie.
 

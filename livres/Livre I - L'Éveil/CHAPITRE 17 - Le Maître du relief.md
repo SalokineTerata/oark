@@ -3,7 +3,7 @@
 > *« Procédure de maintenance observée sur l’opératrice Koda : Lorsqu’un instrument électronique d’origine aqine présente une défaillance d’affichage par encrassement de silice, l’opératrice applique une percussion palmaire latérale de 40 newtons sur le boîtier tout en émettant la séquence phonétique : "Allez, vieux tas de rouille, coopère." Contre toute attente probabiliste, le contact électrique s’est rétabli en 0,3 seconde. Sous-routine archivée pour usage ultérieur. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471, Entrée n° 009**
 
-![La fuite à travers les aiguilles de pierre et la poussière d’ocre du Massif des Orgues.](../illustrations/livre-i/17-01.png){.chapter-illustration}
+![La fuite à travers les aiguilles de pierre et la poussière d’ocre du Massif des Orgues.](../../illustrations/livre-i/17-01.png){.chapter-illustration}
 
 Le Massif des Orgues ne pardonnait rien à ceux qui prétendaient le lire sur un écran d’état-major.
 

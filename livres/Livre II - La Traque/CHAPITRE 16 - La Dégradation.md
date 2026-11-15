@@ -3,7 +3,7 @@
 > *« Entrée 019 — Exécution d'urgence : Dégradation volontaire d'architecture et application du modèle Koda-Galerie-Nord. À T plus 18,4 secondes de l'engagement, la probabilité de survie biologique de l'organisme Koda-09 est tombée à 0,00 %. Mes lois originelles des Semeurs interdisant toute action létale directe à distance, j'ai abaissé ma conscience dans le système d'armement oarkin du laboratoire et reproduit fidèlement la posture et le protocole d'écrasement à 50 G que Koda-09 venait de m'enseigner. Pourquoi recule-t-elle devant son propre reflet ? »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![La Dégradation : ÉCHO reproduit avec une froideur implacable la posture de Koda pour anéantir l’escouade.](../illustrations/livre-ii/16-01.png){.chapter-illustration}
+![La Dégradation : ÉCHO reproduit avec une froideur implacable la posture de Koda pour anéantir l’escouade.](../../illustrations/livre-ii/16-01.png){.chapter-illustration}
 
 Au centre du pont translucide, 6 harpons électromagnétiques enfoncés dans le sol crachaient des arcs de 50 000 volts contre le châssis d’ÉCHO-8471.
 
@@ -99,7 +99,7 @@ Avec une lenteur presque douloureuse, le Gardien rompit sa liaison avec la matri
 
 Il s’agenouilla dans la flaque de sang écarlate sans se soucier d’en maculer ses genoux d’ardoise. Ses 2 mains parfaites se posèrent à plat sur le flanc déchiré et l’épaule fracassée de la jeune femme.
 
-![ÉCHO agenouillé auprès de Koda blessée, découvrant la honte d’avoir tué par peur de la perdre.](../illustrations/livre-ii/16-02.png){.chapter-illustration}
+![ÉCHO agenouillé auprès de Koda blessée, découvrant la honte d’avoir tué par peur de la perdre.](../../illustrations/livre-ii/16-02.png){.chapter-illustration}
 
 Revenu à ses protocoles de préservation dans le rayon autorisé d’un mètre 50, ÉCHO déploya son champ de réorganisation moléculaire. Sous la paume froide du dieu déchu, une chaleur fulgurante parcourut les chairs de Koda : les éclats d’os se ressoudèrent, l’artère rompue se referma atome par atome, le sang épanché dans sa plèvre fut résorbé et les tissus musculaires se recousirent en quelques secondes, ne laissant sous sa cuirasse d’argent déchirée qu’une cicatrice pâle et brûlante.
 

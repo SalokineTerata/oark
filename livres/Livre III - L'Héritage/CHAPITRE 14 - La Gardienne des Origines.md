@@ -3,7 +3,7 @@
 > *« Les Semeurs ne nous ont laissé ni trône, ni canon, ni livre de lois gravé dans le diamant. En s’en allant, ils ne nous ont laissé que la vérité de notre histoire, la chaleur retrouvée de nos 2 mondes, et un tout petit ressort d’acier tordu qui tenait au creux de ma main. C’était bien assez pour recommencer. »*
 > — **Chroniques de la Gardienne Koda, Dernier feuillet**
 
-![Sous le ciel bleu purifié du pôle, Borras et le jeune Yoren se relèvent côte à côte au milieu des armes désarmées.](../illustrations/livre-iii/14-01.png){.chapter-illustration}
+![Sous le ciel bleu purifié du pôle, Borras et le jeune Yoren se relèvent côte à côte au milieu des armes désarmées.](../../illustrations/livre-iii/14-01.png){.chapter-illustration}
 
 Pendant 3 battements de cœur, l’univers entier sembla retenir son souffle au-dessus du maître-autel désert.
 
@@ -55,7 +55,7 @@ Lorsque la colonne de lumière blanche et or avait jailli de la grande crevasse 
 
 Pour la première fois de mémoire d’homme, le ciel polaire était d’un bleu d’outremer profond, limpide, lavé de toute suie. À l’horizon du sud, le soleil Solyar se levait dans une gloire d’or cuivré, et juste au-dessus de la crête occidentale, découpé comme une perle de nacre dans l’azur, flottait le croissant blanc d’Aqi.
 
-![La Gardienne des Origines : seule dans l’aube polaire, Koda serre dans sa paume le petit ressort tordu de Bricole.](../illustrations/livre-iii/14-02.png){.chapter-illustration}
+![La Gardienne des Origines : seule dans l’aube polaire, Koda serre dans sa paume le petit ressort tordu de Bricole.](../../illustrations/livre-iii/14-02.png){.chapter-illustration}
 
 Sur le cercle de 12 kilomètres qui entourait le cratère, les 6 pylônes noirs de 200 mètres qui avaient désarmé les 2 armées venaient de se sublimer en silence. Leurs silhouettes colossales s’étaient défaites en 6 rideaux de poussière d’ambre et de cristaux de neige pure qui retombaient lentement sur la banquise dans un poudroiement d’arc-en-ciel.
 

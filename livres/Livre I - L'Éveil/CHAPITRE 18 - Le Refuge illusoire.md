@@ -3,7 +3,7 @@
 > *« Les ouvrages périphériques du Réseau Solyar furent conçus pour résister à l’érosion des ères géologiques, aux impacts météoritiques et à la fureur des étoiles. Ils ne furent cependant pas prévus pour survivre à la trahison de la montagne elle-même lorsque l’écorce planétaire se fendit sous les armes gravitationnelles de l’Âge d’Or. »*
 > — **Registres Géodésiques de la Première Mnémorite, Relevé d'Intégrité Sectoriel**
 
-![Devant la porte millénaire bloquée, ÉCHO pose solennellement la paume sur le métal : « Vieux tas de rouille. Coopère. »](../illustrations/livre-i/18-01.png){.chapter-illustration}
+![Devant la porte millénaire bloquée, ÉCHO pose solennellement la paume sur le métal : « Vieux tas de rouille. Coopère. »](../../illustrations/livre-i/18-01.png){.chapter-illustration}
 
 La Faille des Soupirs tirait son nom du gémissement continu que le vent d’Oark produisait en s’engouffrant entre ses murailles verticales, hautes de 300 mètres et si resserrées par endroits que la lumière du jour n’y tombait jamais.
 

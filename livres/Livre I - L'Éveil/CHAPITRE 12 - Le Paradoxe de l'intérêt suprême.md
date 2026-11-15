@@ -3,7 +3,7 @@
 > *« Observation comportementale n° 004 : Lorsqu’un opérateur humain est confronté à une démonstration logique réfutant ses espoirs de survie tribale, il croise ses membres supérieurs sur son thorax et transfère une impulsion cinétique inutile dans le substrat minéral le plus proche. J’ai reproduit la séquence sur un bloc basaltique de 312 kilogrammes. Aucune amélioration de l’équation n’a été constatée. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471, Entrée initiale**
 
-![Au cœur des dunes, ÉCHO croise les bras et pousse du pied un bloc de trois cents kilos pour imiter l’agacement de Koda.](../illustrations/livre-i/12-01.png){.chapter-illustration}
+![Au cœur des dunes, ÉCHO croise les bras et pousse du pied un bloc de trois cents kilos pour imiter l’agacement de Koda.](../../illustrations/livre-i/12-01.png){.chapter-illustration}
 
 — Borras ? Borras, tu m’entends ?!
 

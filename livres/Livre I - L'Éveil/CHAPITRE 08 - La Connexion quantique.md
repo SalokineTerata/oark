@@ -3,7 +3,7 @@
 > *« On s’imagine que la mémoire est une bibliothèque bien rangée où l’on feuillette le passé à sa guise. Quand le cristal s’est ouvert, j’ai compris que le vrai souvenir n’est pas un livre : c’est un incendie qui attendait de l’oxygène depuis 10 000 ans et qui vous brûle les yeux dès qu’on pousse la porte. »*
 > — **Carnet d’établi de l’Éclaireuse Koda (Mat. 44-K), écrit au crayon sur une feuille déchirée**
 
-![Dans la nef de verre noir, le grand octaèdre de diamant lévite au-dessus de l'abîme circulaire.](../illustrations/livre-i/08-01.jpg){.chapter-illustration}
+![Dans la nef de verre noir, le grand octaèdre de diamant lévite au-dessus de l'abîme circulaire.](../../illustrations/livre-i/08-01.jpg){.chapter-illustration}
 
 C’était un octaèdre de diamant synthétique haut de 4 mètres — un volume à 8 faces triangulaires assemblées comme 2 pyramides jointes par leur base —, taillé avec une rigueur qui semblait plier la géométrie même de l’espace autour de ses arêtes.
 
@@ -137,7 +137,7 @@ Précipité dans la mousse par l’arrêt brutal de la séquence, le châssis am
 
 À travers ses capteurs mourants, Koda vit la petite fille s’arrêter à un pas de lui, interdite devant cette boîte sombre qui ne se relevait plus. L’enfant s’agenouilla sans peur, déposa délicatement sa fleur à 6 pétales de verre volcanique sur le polyèdre anthracite, posa une seconde sa petite paume chaude contre la facette principale — exactement comme Koda devait le faire 10 000 ans plus tard au fond d’un ravin de poussière —, puis se retourna et s’enfuit en courant à travers les arbres vers la voix lointaine de sa mère qui l’appelait dans la lumière du soir.
 
-![La petite fille oarkine tend la fleur de verre volcanique à six pétales vers le veilleur immobile.](../illustrations/livre-i/08-02.jpg){.chapter-illustration}
+![La petite fille oarkine tend la fleur de verre volcanique à six pétales vers le veilleur immobile.](../../illustrations/livre-i/08-02.jpg){.chapter-illustration}
 
 Et tandis que les pas de l’enfant s’éloignaient, le noyau mutilé, fidèle malgré sa détresse à la promesse de ne jamais troubler le destin des vivants, utilisa les derniers soubresauts de ses moignons magnétiques pour ramper hors de la clairière, se laisser glisser au fond d’une crevasse tectonique et attendre que les siècles le recouvrent de pierre.
 

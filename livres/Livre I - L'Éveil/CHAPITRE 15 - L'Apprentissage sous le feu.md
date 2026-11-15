@@ -3,7 +3,7 @@
 > *« L’erreur fondamentale des civilisations mécaniques consiste à concevoir la défense comme l’opposition d’une masse rigide à une autre masse rigide. Elles bâtissent des boucliers plus épais contre des obus plus lourds, jusqu’à ce que l’énergie dissipée au point d’impact détruise le défenseur autant que l’assaillant. La science des Semeurs ne combat pas le mouvement : elle l’épouse et le reconduit au silence. »*
 > — **Archives du Noyau SOLYAR-0194 (Bricole), Précis de Mécanique Harmonique**
 
-![Sous une pluie de feu magnétique, ÉCHO dévie les projectiles en vol pour protéger Koda et Bricole.](../illustrations/livre-i/15-01.png){.chapter-illustration}
+![Sous une pluie de feu magnétique, ÉCHO dévie les projectiles en vol pour protéger Koda et Bricole.](../../illustrations/livre-i/15-01.png){.chapter-illustration}
 
 Le monde explosa en une tempête d’éclats noirs et de tonnerre sec.
 

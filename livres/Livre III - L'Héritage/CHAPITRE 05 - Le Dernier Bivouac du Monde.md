@@ -3,7 +3,7 @@
 > *« Entrée 489 — Dernière annotation avant liaison au Nœud Mère. J’ai conservé dans ma cavité thoracique secondaire, à l’insu de l’opératrice Koda, un ressort hélicoïdal — enroulé en spirale cylindrique — en acier au carbone de 42 millimètres provenant du châssis détruit de l’unité Bricole. L’objet présente une déformation plastique de 11 degrés — une torsion irréversible du métal poussé au-delà de son seuil d’élasticité — et émet une friction parasite à 2 410 hertz. Sa valeur fonctionnelle est nulle. Pourtant, la perspective de sa dissolution lors de la Sublimation finale génère dans mes circuits d’évaluation une résistance supérieure à la perte d’un continent. Je n’ai pas encore résolu pourquoi ce qui est tordu pèse plus lourd que ce qui est parfait. »*
 > — **Répertoire des Variables Humaines Non Résolues d’ÉCHO-8471**
 
-![Sous les aurores magnétiques du Dernier Bivouac, ÉCHO tend le petit ressort cassé de Bricole dans sa paume ouverte.](../illustrations/livre-iii/05-01.png){.chapter-illustration}
+![Sous les aurores magnétiques du Dernier Bivouac, ÉCHO tend le petit ressort cassé de Bricole dans sa paume ouverte.](../../illustrations/livre-iii/05-01.png){.chapter-illustration}
 
 À 4 000 mètres d’altitude, juste sous la lèvre de la Caldera Polaire, la tempête se déchira soudain comme un vieux drap usé.
 

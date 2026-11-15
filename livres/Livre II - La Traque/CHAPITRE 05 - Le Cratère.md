@@ -3,7 +3,7 @@
 > *« La guerre industrielle nous a habitués à mesurer la puissance au bruit qu'elle fait : le tonnerre d'un barrage d'artillerie, le hurlement d'une turbine, la fumée grasse d'une ville qui brûle. Aujourd'hui, dans la gorge d'Ambre, j'ai posé la main sur une mort qui ne fait aucun bruit et ne laisse aucune cendre. Nous sommes des enfants armés de bâtons qui viennent de frapper à la porte des dieux. »*
 > — **Carnets personnels du Général Vane, Notes d'inspection sur Oark**
 
-![Le Général Vane et Borras descendent dans la cavité vitrifiée à l’atome près par la Sublimation de Bricole.](../illustrations/livre-ii/05-01.png){.chapter-illustration}
+![Le Général Vane et Borras descendent dans la cavité vitrifiée à l’atome près par la Sublimation de Bricole.](../../illustrations/livre-ii/05-01.png){.chapter-illustration}
 
 L’air de la gorge d’Ambre ne sentait ni la poudre, ni l’essence brûlée, ni la chair calcinée. Il ne sentait rien. C’était le vide olfactif d’une salle d’opération stérilisée au rayonnement pur, posé à ciel ouvert au milieu du désert d’Oark.
 

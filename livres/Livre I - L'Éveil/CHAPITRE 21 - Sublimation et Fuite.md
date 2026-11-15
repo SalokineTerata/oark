@@ -3,7 +3,7 @@
 > *« Anomalie d’exécution enregistrée à T-0,000001 seconde de la Sublimation de l’unité 0194 : Tout en maintenant le dôme d’exclusion autour de l’opératrice Koda, j’ai détourné 0,03 % de ma capacité d’induction pour soustraire à la conversion subatomique un ressort hélicoïdal en acier aqin oxydé (masse : 14,2 grammes ; fréquence de résonance : 2 410 Hz). Ce composant est mécaniquement dépourvu de valeur. J’ignore pourquoi j’ai refusé sa disparition. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471, Entrée n° 012**
 
-![Bricole s’élance seul sur sa chenille grinçante vers la salve mortelle, un dernier sourire vert sur son écran.](../illustrations/livre-i/21-01.png){.chapter-illustration}
+![Bricole s’élance seul sur sa chenille grinçante vers la salve mortelle, un dernier sourire vert sur son écran.](../../illustrations/livre-i/21-01.png){.chapter-illustration}
 
 Le fracas du monde revint comme une digue qui rompt.
 
@@ -93,7 +93,7 @@ Ses capteurs optiques d’ambre et d’or étaient fixés sur la silhouette pros
 
 Lorsqu’il s’avança enfin et s’agenouilla à côté de Koda, son geste n’avait plus tout à fait la géométrie mécanique du matin. Il glissa un bras sous les épaules de l’éclaireuse et l’autre sous ses genoux blessés, puis la souleva de terre avec une précaution infinie.
 
-![Koda agenouillée contre le dôme d’obsidienne vitrifiée, tandis qu’ÉCHO referme en secret la main sur le petit ressort tordu.](../illustrations/livre-i/21-02.png){.chapter-illustration}
+![Koda agenouillée contre le dôme d’obsidienne vitrifiée, tandis qu’ÉCHO referme en secret la main sur le petit ressort tordu.](../../illustrations/livre-i/21-02.png){.chapter-illustration}
 
 — Vos fonctions locomotrices sont altérées à 45 %, Koda, dit-il. Et les transporteurs aériens maintenus en réserve à la surface du canyon détecteront l’anomalie sismique de la vitrification d’ici moins de 6 minutes. Nous devons évacuer ce périmètre par la cheminée nord-ouest que Bricole a préservée pour nous.
 

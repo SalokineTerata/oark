@@ -5,7 +5,7 @@
 > *Hypothèse : ce déséquilibre gravitationnel volontaire du crâne favorise l’acceptation sociale des mensonges en milieu aride. Application immédiate recommandée. »*
 > — **Répertoire des Variables Humaines Non Résolues d’ÉCHO-8471, minute 18 après l’initialisation**
 
-![La navette de la Section Noire descend dans les tourbillons blancs au-dessus de la crevasse.](../illustrations/livre-i/10-01.jpg){.chapter-illustration}
+![La navette de la Section Noire descend dans les tourbillons blancs au-dessus de la crevasse.](../../illustrations/livre-i/10-01.jpg){.chapter-illustration}
 
 Pour descendre les 42 mètres de la faille d’obsidienne, il avait fallu à Koda 20 minutes d’efforts acharnés, un treuil mécanique hurlant à la rupture, 2 pitons thermiques et des gouttes de sueur plein les cils.
 

@@ -1,8 +1,11 @@
 import asyncio
 from pathlib import Path
+import sys
 import tempfile
 import unittest
 from unittest.mock import AsyncMock, Mock, patch
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "outil"))
 
 import numpy as np
 from pydub import AudioSegment
@@ -199,7 +202,7 @@ class AudiobookTests(unittest.TestCase):
                     patch("main_audiobook.analyse_chapter", return_value=document), \
                     patch("sys.argv", ["main_audiobook.py", "analyse", "--auto"]):
                 main_audiobook.run()
-            path = root / "exports" / "orientations" / "voix.json"
+            path = root / "voix" / "voix.json"
             self.assertNotIn("INCONNU", qwen_renderer.load_profiles(path))
             with patch.object(main_audiobook, "ROOT", root), patch.object(main_audiobook, "BOOKS", {"1": "livre-test"}), \
                     patch("main_audiobook.Engine"), patch("main_audiobook.render_book", return_value=root / "audio.mp3") as render, \
@@ -215,7 +218,7 @@ class AudiobookTests(unittest.TestCase):
             chapter_dir.mkdir()
             source = chapter_dir / "1 - test.md"
             source.write_text("# Chapitre 1 — Essai\n\nBonjour.", encoding="utf-8")
-            audio_dir = root / "exports" / "temp_audio"
+            audio_dir = root / "exports-audiobook" / "temp_audio"
             audio_dir.mkdir(parents=True)
             other = audio_dir / "a-conserver.mp3"
             other.write_bytes(b"untouched")
@@ -250,10 +253,10 @@ class AudiobookTests(unittest.TestCase):
                     main_audiobook.run()
                     main_audiobook.run()
                 self.assertEqual(engine.speak.call_count, 1)
-            self.assertTrue((root / "exports" / "Livre-1_Audiobook.mp3").is_file())
-            self.assertGreater(len(AudioSegment.from_mp3(root / "exports" / "Livre-1_Audiobook.mp3")), 1000)
+            self.assertTrue((root / "exports-audiobook" / "Livre-1_Audiobook.mp3").is_file())
+            self.assertGreater(len(AudioSegment.from_mp3(root / "exports-audiobook" / "Livre-1_Audiobook.mp3")), 1000)
             self.assertEqual(other.read_bytes(), b"untouched")
-            self.assertTrue((root / "exports" / "orientations" / "Livre-1" / "chapitre-001.json").exists())
+            self.assertTrue((root / "exports-audiobook" / "orientations" / "Livre-1" / "chapitre-001.json").exists())
 
     def test_analysis_preserves_text_and_identifies_dialogue(self):
         response = {"locuteur": "KODA", "emotion": "neutre", "valence": 0.0, "activation": 0.5,

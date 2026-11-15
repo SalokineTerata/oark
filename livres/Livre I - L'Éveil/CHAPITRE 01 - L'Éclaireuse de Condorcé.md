@@ -3,7 +3,7 @@
 > *« On reconnaît une recrue fraîchement débarquée d’Aqi à ce qu’elle écoute le vent d’Oark en cherchant encore le bruit d’un blizzard. Au bout de 3 mois, elle comprend que la silice ne fond jamais, que l’eau recyclée a toujours le goût des bottes de la veille, et que les seuls fantômes qui hantent ce désert sont ceux que nos propres foreuses refusent de laisser dormir. »*
 > — **Carnet d’établi de l’Éclaireuse Koda (Mat. 44-K), page de garde tachée d’huile, Base Zêta-3**
 
-![Koda dans la galerie glacée de la Faille des Soupirs face au cœur ambré du Gardien endormi.](../illustrations/livre-i/01-01.jpg){.chapter-illustration}
+![Koda dans la galerie glacée de la Faille des Soupirs face au cœur ambré du Gardien endormi.](../../illustrations/livre-i/01-01.jpg){.chapter-illustration}
 
 Le vent d’Oark ne soufflait jamais vraiment ; il raclait.
 

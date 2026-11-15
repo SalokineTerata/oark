@@ -53,3 +53,7 @@ Archivage de la V1 (manuscrits V1, illustrations V1, EPUB/PDF V1 et scripts .bat
 ## 2026-11-15T15:02:23+01:00 — Regeneration des bibles, trames et plans dans cadre/
 
 Creation du repertoire cadre/ regroupant les 4 bibles (univers, niveaux technologiques, ECHO, evolution des personnages), les 3 trames narratives, les 3 plans detailles (52 chapitres V2), la charte d'ecriture V2, le plan directeur et le sommaire V2, plus README.md. Verification : 21 tests unitaires OK. Push sur GitHub main.
+
+## 2026-11-15T15:18:56+01:00 — Restructuration modulaire complete du depot Oark
+
+Separation stricte des repertoires : cadre/, livres/, illustrations/, exports-epub/, exports-audiobook/, voix/, outil/ (code source Python, CSS, scripts), tests/, ia/ (HISTORIQUE_IA.md, STUDIO_IA.md, journal_ia/) et archives/. Mise a jour des chemins dans outil/, tests/, AGENTS.md, .agents/hooks.json, .gitignore, README.md et des liens images dans les 52 chapitres. Verifications : 21/21 tests unitaires OK, build_books_v2.py OK (3 EPUB3 dans exports-epub/), hook_session_ia.py OK.

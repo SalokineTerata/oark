@@ -7,7 +7,7 @@
 > *Requête au vide : Que quelqu’un m’achève, ou que quelqu’un me rende la raison de ma veille. »*
 > — **Fragments de mémoire tampon extraits d’un noyau anonyme, Secteur Zêta**
 
-![À l'avant-poste Boréal-9, Koda neutralise le garde d'un coup précis tout en épargnant le jeune mécanicien.](../illustrations/livre-i/04-01.jpg){.chapter-illustration}
+![À l'avant-poste Boréal-9, Koda neutralise le garde d'un coup précis tout en épargnant le jeune mécanicien.](../../illustrations/livre-i/04-01.jpg){.chapter-illustration}
 
 À minuit, Zêta-3 ne dormait pas ; elle ronflait.
 

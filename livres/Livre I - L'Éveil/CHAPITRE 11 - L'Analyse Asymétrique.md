@@ -7,7 +7,7 @@
 > *Conclusion algorithmique : Entité hors référentiel connu. Saisie ou destruction immédiate requise avant capture par l’ennemi afistéaan. »*
 > — **Journal d’alerte du Bunker de Commandement Sectoriel, 14 h 04 min 19 s**
 
-![Dans la clarté verte des néons de Zêta-3, Borras découvre la silhouette d’ÉCHO sur les relevés du drone.](../illustrations/livre-i/11-01.png){.chapter-illustration}
+![Dans la clarté verte des néons de Zêta-3, Borras découvre la silhouette d’ÉCHO sur les relevés du drone.](../../illustrations/livre-i/11-01.png){.chapter-illustration}
 
 Dans la salle des transmissions de Zêta-3, Borras avait les 10 doigts si durement crispés sur le rebord d’acier de sa console que ses ongles en étaient devenus blancs.
 

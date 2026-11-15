@@ -12,7 +12,7 @@ from diarizer import check_model
 from orientation import analyse_chapter, atomic_json, read_orientation
 from qwen_renderer import Engine, ensure_profiles, instruction, load_profiles, render_book
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 BOOKS = {
     "1": "Livre I - L_éveil",
     "2": "Livre II - La Traque",
@@ -57,7 +57,7 @@ def run() -> None:
         if args.speaker_model:
             check_model(client, args.speaker_model)
         for number, paths in chapters:
-            directory = ROOT / "exports" / "orientations" / f"Livre-{number}"
+            directory = ROOT / "exports-audiobook" / "orientations" / f"Livre-{number}"
             for index, source in enumerate(paths, 1):
                 target = directory / f"chapitre-{index:03d}.json"
                 if target.exists():
@@ -68,7 +68,7 @@ def run() -> None:
                     data = analyse_chapter(source, index, client, args.model, args.speaker_model)
                     atomic_json(target, data)
                     print(f"Orientation créée : {target}", flush=True)
-                ensure_profiles(ROOT / "exports" / "orientations" / "voix.json",
+                ensure_profiles(ROOT / "voix" / "voix.json",
                                 {s["locuteur"] for s in data["segments"]})
         print("Analyse terminée. Vérifiez et corrigez les fichiers d'orientation avant la génération.", flush=True)
         return
@@ -76,10 +76,10 @@ def run() -> None:
         raise ValueError("Validation humaine requise : relisez les orientations, puis ajoutez --approuve.")
     if not shutil.which("ffmpeg") or not shutil.which("ffprobe"):
         raise RuntimeError("FFmpeg et ffprobe sont requis dans le PATH.")
-    profiles_path = ROOT / "exports" / "orientations" / "voix.json"
+    profiles_path = ROOT / "voix" / "voix.json"
     profiles = load_profiles(profiles_path)
     for number, paths in chapters:
-        directory = ROOT / "exports" / "orientations" / f"Livre-{number}"
+        directory = ROOT / "exports-audiobook" / "orientations" / f"Livre-{number}"
         for index, source in enumerate(paths, 1):
             data = read_orientation(directory / f"chapitre-{index:03d}.json", source, index)
             for segment in data["segments"]:

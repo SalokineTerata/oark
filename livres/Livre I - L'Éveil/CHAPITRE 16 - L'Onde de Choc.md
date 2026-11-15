@@ -3,7 +3,7 @@
 > *« Circulaire d’État-Major Oméga-Noir — Article 1 : Toute découverte sur le sol d’Oark d’un système d’arme ou de propulsion dépassant les tables balistiques conventionnelles relève de la survie immédiate de la République. Tout citoyen, militaire ou civil, qui tenterait d’en entraver la saisie par les forces spéciales sera considéré comme agent de l’ennemi afistéaan et passé par les armes sur le champ, sans instruction ni procès. »*
 > — **Directives d'Urgence du Général Vane, Bunker Stratégique de Plotéris**
 
-![Au quartier général, l’état-major contemple avec stupeur les dernières images des chasseurs neutralisés.](../illustrations/livre-i/16-01.png){.chapter-illustration}
+![Au quartier général, l’état-major contemple avec stupeur les dernières images des chasseurs neutralisés.](../../illustrations/livre-i/16-01.png){.chapter-illustration}
 
 À 400 kilomètres au sud-est des Dents de Scorie, profondément enfouie sous la calotte basaltique du cratère Képler, la salle des opérations du Commandement Sectoriel d’Oark sentait le café rance, la sueur froide et l’ozone des transformateurs haute tension.
 

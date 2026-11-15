@@ -3,7 +3,7 @@
 > *« Entrée 009 — Phénomène observé : Boiterie mimétique non fonctionnelle. Suite à une distension ligamentaire de la cheville droite de l'organisme Koda-09, mes servomoteurs pelviens ont spontanément adopté une dissymétrie de foulée de 14 % malgré l'intégrité absolue de mon châssis. L'analyse interne ne révèle aucun court-circuit. Hypothèse provisoire : dans un binôme en déplacement, l'imitation de la vulnérabilité du partenaire réduit son sentiment d'isolement statistique. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![Sur les éboulis des Terres Mortes, ÉCHO reproduit inconsciemment la boiterie de Koda blessée à la cheville.](../illustrations/livre-ii/07-01.png){.chapter-illustration}
+![Sur les éboulis des Terres Mortes, ÉCHO reproduit inconsciemment la boiterie de Koda blessée à la cheville.](../../illustrations/livre-ii/07-01.png){.chapter-illustration}
 
 L’aube sur la faille d’Érèbe n’apportait aucune fraîcheur ; elle changeait seulement la couleur de la pierre, faisant virer le basalte du noir d’encre au rouge de la braise qu’on souffle.
 

@@ -3,7 +3,7 @@
 > *« Vecteur d’interception : Escadrille de chasse lourde "Faucheur", nomenclature tactique Condorcé. Vitesse de croisière : 312 km/h (86,66 m/s). Armement embarqué : canon rotatif à accélération magnétique de 20 mm (cadence : 4 200 coups/min) et paniers thermobariques à guidage infrarouge. Doctrine d’emploi : saturation cinétique intégrale de la grille cible avant identification visuelle. »*
 > — **Manuel des Procédures d'Engagement Aéroterrestre, Haut Commandement de Condorcé**
 
-![À l’aube, cinq chasseurs d’assaut de Condorcé fendent le ciel d’ocre à trois cent douze kilomètres à l’heure.](../illustrations/livre-i/14-01.png){.chapter-illustration}
+![À l’aube, cinq chasseurs d’assaut de Condorcé fendent le ciel d’ocre à trois cent douze kilomètres à l’heure.](../../illustrations/livre-i/14-01.png){.chapter-illustration}
 
 L’aube livide d’Oark venait à peine de fendre la brume de soufre lorsque Koda boucla son casque et jaillit hors de l’arche de grès rouge, son fusil à impulsion magnétique armé entre les mains.
 

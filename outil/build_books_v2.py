@@ -16,7 +16,7 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parent.parent
 LIVRES = ROOT / "livres"
-EXPORTS = ROOT / "exports"
+EXPORTS = ROOT / "exports-epub"
 BOOKS = (
     ("I", "Livre I - L'Éveil", "Oark - Livre I - L'Éveil.epub", "Oark — Livre I : L’Éveil"),
     ("II", "Livre II - La Traque", "Oark - Livre II - La Traque.epub", "Oark — Livre II : La Traque"),
@@ -95,7 +95,7 @@ def run() -> None:
     args = parser.parse_args()
 
     pandoc = find_pandoc()
-    base_css = ROOT / "scripts" / "book_style.css"
+    base_css = ROOT / "outil" / "book_style.css"
     if not base_css.is_file():
         raise RuntimeError(f"Feuille de style introuvable : {base_css}")
 
@@ -125,7 +125,7 @@ def run() -> None:
             epub_tmp = work / filename
             target = EXPORTS / filename
             combined_md = "\n\n".join(c[2] for c in chapters) + "\n"
-            combined_md = combined_md.replace("](../illustrations/", "](illustrations/")
+            combined_md = combined_md.replace("](../../illustrations/", "](illustrations/")
             md_path.write_text(combined_md, encoding="utf-8", newline="\n")
 
             subprocess.run(
@@ -137,14 +137,14 @@ def run() -> None:
                     "--standalone",
                     "--toc",
                     "--toc-depth=1",
-                    "--resource-path", str(LIVRES),
+                    "--resource-path", str(ROOT),
                     "--metadata", f"title={title}",
                     "--metadata", "lang=fr",
                     "--css", str(css_v2),
                     "--output", str(epub_tmp),
                 ],
                 check=True,
-                cwd=LIVRES,
+                cwd=ROOT,
             )
             shutil.copyfile(epub_tmp, target)
             stats = verify_epub(target, len(chapters))

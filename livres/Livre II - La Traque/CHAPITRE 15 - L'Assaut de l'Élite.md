@@ -3,7 +3,7 @@
 > *« Règle d'engagement prioritaire pour la Section Noire à Kélar : Ne tentez aucune sommation verbale. La déserteuse Koda-09 constitue l'interface de commandement tactique de l'artefact. Tant que son cerveau émettra des ordres, la machine repoussera nos hommes. Brisez le bouclier de l'opératrice par saturation cinétique simultanée dès l'ouverture du sas : un automate privé de pilote redevient une pièce de musée. »*
 > — **Carnets personnels du Général Vane, Directive opérationnelle Kélar-Zéro**
 
-![Les commandos d’élite de la Section Noire font sauter les accès du laboratoire dans un fracas de poudre et d’acier.](../illustrations/livre-ii/15-01.png){.chapter-illustration}
+![Les commandos d’élite de la Section Noire font sauter les accès du laboratoire dans un fracas de poudre et d’acier.](../../illustrations/livre-ii/15-01.png){.chapter-illustration}
 
 La seconde déflagration ne vint pas de la surface ; elle frappa directement la paroi nacrée du sas d’entrée, à 30 mètres derrière eux.
 

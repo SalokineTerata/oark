@@ -100,12 +100,12 @@ def status(root: Path) -> str:
         v2_source = root / BOOKS_V2[number]
         source = v2_source if v2_source.is_dir() else root / folder
         chapters = len(list(source.glob("*.md"))) if source.is_dir() else 0
-        pivots = root / "exports" / "orientations" / f"Livre-{number}"
+        pivots = root / "exports-audiobook" / "orientations" / f"Livre-{number}"
         orientations = len(list(pivots.glob("chapitre-*.json"))) if pivots.is_dir() else 0
-        audio = root / "exports" / f"Livre-{number}_Audiobook.mp3"
+        audio = root / "exports-audiobook" / f"Livre-{number}_Audiobook.mp3"
         result = f"{audio.stat().st_size} octets (non vérifié)" if audio.is_file() else "absent"
         lines.append(f"Livre {number} : {chapters} sources, {orientations} orientations, audio {result}")
-    journal = root / "journal_ia"
+    journal = root / "ia" / "journal_ia"
     archives = journal / "archives"
     lines.append(f"Archives du journal : {len(list(archives.glob('journal-*.md'))) if archives.is_dir() else 0}")
     lines.append("Un fichier audio existant ne prouve pas sa qualité ni sa complétude.")
@@ -126,7 +126,7 @@ def main() -> None:
     source.add_argument("--fichier", type=Path, help="Fichier UTF-8 contenant l'entrée.")
     args = parser.parse_args()
     root = args.root.resolve()
-    directory = root / "journal_ia"
+    directory = root / "ia" / "journal_ia"
     if args.command == "etat":
         print(status(root))
     elif args.command == "lire":

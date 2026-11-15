@@ -3,7 +3,7 @@
 > *« ALERTE SYSTÈME — NŒUD MÈRE BORÉAL. Anomalie de parité — discordance de contrôle logique — détectée dans le processeur central de l’unité Gardien ÉCHO-8471. L’unité tente d’attribuer une valeur pondérale infinie — un poids décisif dans la balance du calcul — à une série de variables biologiques finies (Réf. : KODA-44K / LYSS-ÉRÈBE / SOREN-OSTRE / BRICOLE-0194). Violation du Troisième Axiome de Thermodynamique Sociale, régissant la mécanique statistique des foules. Déclenchement de la procédure de purge mémorielle d’urgence. »*
 > — **Journal d’audit interne du Réseau Planétaire Solyar, Seconde -550**
 
-![Le réseau planétaire des Mnémorites verrouille les bras d’ÉCHO et écrase sa conscience acquise sous un déluge de lumière blanche.](../illustrations/livre-iii/12-01.png){.chapter-illustration}
+![Le réseau planétaire des Mnémorites verrouille les bras d’ÉCHO et écrase sa conscience acquise sous un déluge de lumière blanche.](../../illustrations/livre-iii/12-01.png){.chapter-illustration}
 
 9 minutes et 10 secondes.
 

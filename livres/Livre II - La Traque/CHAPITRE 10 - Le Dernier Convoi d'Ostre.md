@@ -3,7 +3,7 @@
 > *« … T'as vu comme il roule bien, ton train, princesse ? C'est moi qui ai graissé l'aiguillage du pont, alors t'as rien à craindre, ça va filer tout droit jusqu'aux grandes cavernes du Sud. Moi ? Oh, je prends juste le wagon suivant, le sergent Darnel m'a demandé de resserrer un dernier gros boulon sur la chaudière avant de fermer la boutique… Dis, Lina… tu me croiras jamais : la neige qui tombe par le toit, elle est toute tiède ce matin. On dirait presque du sable doré… »*
 > — **Transmission radio d'urgence de la vanne B-12 (Fréquence opérationnelle du secteur d'Ostre — Archive des boîtes noires orbitales de Sol-Morne, durée : 47 secondes)**
 
-![Seul dans la casemate des vannes B-12 éventrée, Soren bloque la radio d’urgence avec du fil de cuivre pendant que passe le train des enfants.](../illustrations/livre-ii/10-01.png){.chapter-illustration}
+![Seul dans la casemate des vannes B-12 éventrée, Soren bloque la radio d’urgence avec du fil de cuivre pendant que passe le train des enfants.](../../illustrations/livre-ii/10-01.png){.chapter-illustration}
 
 Lorsque les 300 canons thermobariques du maréchal Krov ouvrirent le feu simultanément à 5 heures 12 du matin, le Glacier d’Ostre ne fondit pas : il prit feu.
 

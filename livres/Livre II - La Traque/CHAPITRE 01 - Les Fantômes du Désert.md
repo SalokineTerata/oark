@@ -3,7 +3,7 @@
 > *« Entrée 004 — Objet : Ressort hélicoïdal en acier au carbone (longueur : 41 mm, déformation plastique : 14°). Soustrait à la sphère de Sublimation du second sanctuaire à T minus 0,0002 seconde. Utilité tactique : nulle. Utilité structurelle : nulle. Raison de la conservation : lorsque cet élément subit une compression axiale de 12 newtons, il émet une fréquence acoustique de 2 410 hertz identique à celle de l'unité 0194 dite "Bricole". La suppression de cette fréquence dans l'univers m'a paru constituer une perte de données inacceptable. »*
 > — **Répertoire des Variables Humaines Non Résolues d'ÉCHO-8471**
 
-![Dans la nuit du désert, Koda surprend ÉCHO en train de faire jouer entre ses doigts le petit ressort de Bricole.](../illustrations/livre-ii/01-01.png){.chapter-illustration}
+![Dans la nuit du désert, Koda surprend ÉCHO en train de faire jouer entre ses doigts le petit ressort de Bricole.](../../illustrations/livre-ii/01-01.png){.chapter-illustration}
 
 Le vent d’Oark ne soufflait jamais vraiment ; il raclait. Mais depuis 48 heures, pour Koda, il avait pris le bruit d’une chenille dépareillée qui ne grincerait plus jamais.
 

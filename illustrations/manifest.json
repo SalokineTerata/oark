@@ -1,0 +1,744 @@
+{
+  "model": "DreamShaper8_LCM.safetensors",
+  "model_sha256": "a4f3e1526c5dc4fcbe342f5c410d83ae202c7a415fcefcbb92e0f93fcd0a87c3",
+  "style": "Handmade science-fiction book illustration, expressive charcoal sketch with visible hand-drawn strokes, soft pastel accents, subtle paper grain, imperfect pencil contours, restrained palette of desert ochre, slate blue, charcoal grey and muted amber, atmospheric natural light, tactile and intimate, clearly illustrated rather than photorealistic. Maintain consistent character designs throughout the trilogy: Koda is a young woman scout with dark hair tied back and practical, weathered expedition gear; Bricole is a palm-sized, asymmetrical tracked robot improvised from mismatched salvaged parts, with exposed cables and a cracked optical sensor; ÉCHO is a tall, smooth silver humanoid guardian with amber eyes. Keep the scene faithful to its chapter and show these characters when they are present; after Bricole's sacrifice, represent Bricole only through the small salvaged parts Koda carries, never as a living robot.",
+  "image_source_note": "The existing images for book I chapters 1-24, 26-27 and 30-31 and book II chapters 2, 5 and 7 were generated separately with an image-generation tool and resized to 768x512. The ComfyUI checkpoint and seeds below apply to local regeneration, not those existing images.",
+  "seed_bases": {
+    "I": 100000,
+    "II": 200000,
+    "III": 300000
+  },
+  "books": {
+    "I": [
+      {
+        "scene": "A young woman scout in a dusty protective suit checks a scanner as wind drives sand against her visor on a desert plateau.",
+        "seed": 100001,
+        "sources": [
+          "1:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout examines mineral-rich rock deep in a cave, following an anomalous reading from her handheld instrument.",
+        "seed": 100002,
+        "sources": [
+          "2:1+"
+        ]
+      },
+      {
+        "scene": "A dusty scout returns through a camp decontamination airlock carrying her field equipment and a small recovered fragment.",
+        "seed": 100003,
+        "sources": [
+          "3:1+",
+          "4:1+"
+        ]
+      },
+      {
+        "scene": "Three prospectors measure the extent of an energy-bearing mineral vein along the walls of a desert gorge.",
+        "seed": 100005,
+        "sources": [
+          "5:1+",
+          "6:1+",
+          "7:1+"
+        ]
+      },
+      {
+        "scene": "In a dim camp workshop, a woman carefully examines a small ancient component amid tools and electrical leads.",
+        "seed": 100008,
+        "sources": [
+          "8:1+"
+        ]
+      },
+      {
+        "scene": "A palm-sized improvised robot sits on a cluttered workbench, a young woman carefully examines its small mechanical body, tools and wires, workshop at night.",
+        "seed": 100009,
+        "image_source": "Illustration generated separately with an image-generation tool and resized to 768x512; the seed and checkpoint apply only to ComfyUI regeneration.",
+        "sources": [
+          "9:1+"
+        ]
+      },
+      {
+        "scene": "A young woman enters a quiet workshop and sees a small improvised robot sitting on a workbench beside a glowing terminal.",
+        "seed": 100010,
+        "sources": [
+          "10:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout comes home through a desert camp carrying her equipment and a map of a newly surveyed ravine.",
+        "seed": 100011,
+        "sources": [
+          "11:1+",
+          "12:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout checks a pile of heavy field gear, reinforced beacons and coils of cable in a camp equipment room.",
+        "seed": 100013,
+        "sources": [
+          "13:1+",
+          "14:1+"
+        ]
+      },
+      {
+        "scene": "A camp technician scans a dusty protective suit as a woman scout passes through a decontamination airlock.",
+        "seed": 100016,
+        "sources": [
+          "16:1+",
+          "15:1+"
+        ]
+      },
+      {
+        "scene": "A woman carrying a field case follows a concealed rocky path toward a desert fissure.",
+        "seed": 100017,
+        "sources": [
+          "17:1+",
+          "18:1+"
+        ]
+      },
+      {
+        "scene": "A woman watches a narrow ancient door slowly open into a cold, dark underground sanctuary.",
+        "seed": 100019,
+        "sources": [
+          "19:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout carrying a field case compares a paper map to changing dunes on her return through the desert.",
+        "seed": 100020,
+        "sources": [
+          "20:1+",
+          "21:1+",
+          "22:1+"
+        ]
+      },
+      {
+        "scene": "In an ancient subterranean chamber, a woman and a small machine face a dormant fabrication platform.",
+        "seed": 100023,
+        "sources": [
+          "23:1+"
+        ]
+      },
+      {
+        "scene": "A woman and a smooth humanoid machine move along a dim corridor toward an open underground threshold.",
+        "seed": 100024,
+        "sources": [
+          "24:1+",
+          "25:1+"
+        ]
+      },
+      {
+        "scene": "A concerned camp officer watches a reconnaissance drone image on monitors in a cramped control room.",
+        "seed": 100026,
+        "sources": [
+          "26:1+",
+          "27:1+"
+        ]
+      },
+      {
+        "scene": "At the desert camp gate, a woman faces her friend across a tense distance as defensive turrets track nearby.",
+        "seed": 100028,
+        "sources": [
+          "28:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout walks along a rocky ravine away from camp, keeping her case and companion close.",
+        "seed": 100029,
+        "sources": [
+          "29:1+",
+          "30:1+"
+        ]
+      },
+      {
+        "scene": "A woman and a humanoid companion leave a desert beacon behind as they cross rugged ground.",
+        "seed": 100031,
+        "sources": [
+          "31:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout considers two diverging routes in a desert ravine, one exposed and one beneath a rocky ledge.",
+        "seed": 100032,
+        "sources": [
+          "32:1+",
+          "33:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout crouches beside a case after a fight, watching disabled drones in the dust.",
+        "seed": 100034,
+        "sources": [
+          "34:1+",
+          "35:1+"
+        ]
+      },
+      {
+        "scene": "A troubled camp officer watches silent drone footage on a monitor in a dim control room.",
+        "seed": 100036,
+        "sources": [
+          "36:1+",
+          "37:1+"
+        ]
+      },
+      {
+        "scene": "A camp officer rides in an intervention vehicle beside armored soldiers preparing their equipment.",
+        "seed": 100038,
+        "sources": [
+          "38:1+",
+          "39:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout studies an old map and the distant desert landscape while choosing a route toward a possible shelter.",
+        "seed": 100040,
+        "sources": [
+          "40:1+"
+        ]
+      },
+      {
+        "scene": "A woman checks cracks in a broad rock overhang before sheltering beneath it with her equipment.",
+        "seed": 100041,
+        "sources": [
+          "41:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout crosses a wind-scoured rock corridor at dawn with a tall humanoid companion.",
+        "seed": 100042,
+        "sources": [
+          "42:1+",
+          "43:1+"
+        ]
+      },
+      {
+        "scene": "A thirsty woman scout measures a difficult route across a barren plateau using a handheld map.",
+        "seed": 100044,
+        "sources": [
+          "44:1+",
+          "45:1+"
+        ]
+      },
+      {
+        "scene": "At a canyon doorway a woman scout holds a lowered rifle while a small machine rests nearby and a guardian watches the passage.",
+        "seed": 100046,
+        "sources": [
+          "46:1+",
+          "47:1+"
+        ]
+      },
+      {
+        "scene": "A wounded woman scout and her guardian shelter among rocks while soldiers wait behind defensive shields.",
+        "seed": 100048,
+        "sources": [
+          "48:1+",
+          "49:1+"
+        ]
+      },
+      {
+        "scene": "A woman sits against a canyon wall in stunned silence amid drifting dust and scattered fragments of rock.",
+        "seed": 100050,
+        "sources": [
+          "50:1+",
+          "51:1+"
+        ]
+      },
+      {
+        "scene": "At dawn a weary woman scout wakes in a narrow gorge beside a silent humanoid companion.",
+        "seed": 100052,
+        "sources": [
+          "52:1+",
+          "53:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout studies a route around a rockfall where an old maintenance track disappears beneath pale stones.",
+        "seed": 100054,
+        "sources": [
+          "54:1+"
+        ]
+      }
+    ],
+    "II": [
+      {
+        "scene": "An injured woman scout and a smooth humanoid companion walk along a dry desert riverbed.",
+        "seed": 200001,
+        "sources": [
+          "1:1+"
+        ]
+      },
+      {
+        "scene": "In a dim earthen room, a woman tends an injured woman scout while others sort strips of clean cloth.",
+        "seed": 200002,
+        "sources": [
+          "2:1-2"
+        ]
+      },
+      {
+        "scene": "Drought-stricken village in a barren sandy desert. A young scout and two villagers carry small water jars beside a covered metal cistern and low earthen buildings. No open water.",
+        "seed": 201022,
+        "sources": [
+          "2:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, lake, river, ocean, sea, pond, pool, open water, grass, trees, forest, greenery"
+      },
+      {
+        "scene": "A general examines a tactical map of snow-covered supply routes in a military command post.",
+        "seed": 200003,
+        "sources": [
+          "3:1+"
+        ]
+      },
+      {
+        "scene": "Two women sit beside a small carefully tended fire in a desert settlement.",
+        "seed": 200004,
+        "sources": [
+          "4:1-2"
+        ]
+      },
+      {
+        "scene": "Inside a modest earthen room, a young woman scout and an older desert villager study a handwritten community water register by lamplight.",
+        "seed": 201042,
+        "sources": [
+          "4:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, lake, river, ocean, sea, pond, open water, landscape, grass, trees"
+      },
+      {
+        "scene": "Soldiers wearing dust masks descend from a transport near a vast empty crater in the desert.",
+        "seed": 200005,
+        "sources": [
+          "5:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout finds a small unmarked beacon half buried in hardened sand inside a narrow gorge.",
+        "seed": 200006,
+        "sources": [
+          "6:1-2"
+        ]
+      },
+      {
+        "scene": "A woman scout in desert field gear uses a sample vial to test oily water in a small rock cistern, watched by a humanoid companion.",
+        "seed": 201062,
+        "sources": [
+          "6:3-4"
+        ]
+      },
+      {
+        "scene": "A woman scout studies a rough map beside a small case under desert rocks at night, facing a distant fortified outpost.",
+        "seed": 201064,
+        "sources": [
+          "6:5+"
+        ]
+      },
+      {
+        "scene": "A woman scout watches a fortified former drilling station from a desert ridge in a cold wind.",
+        "seed": 200007,
+        "sources": [
+          "7:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout takes cover behind a workbench inside a metal hangar as gunfire strikes the wall outside.",
+        "seed": 200008,
+        "sources": [
+          "8:1-2"
+        ]
+      },
+      {
+        "scene": "A young woman scout in practical field gear and one smooth silver humanoid guardian walk through an arid, dry, sandy rock canyon beneath a bright sky.",
+        "seed": 201082,
+        "sources": [
+          "8:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, lake, river, ocean, sea, pond, open water, forest, jungle, tree, grass, greenery"
+      },
+      {
+        "scene": "Military analysts examine equipment logs and surveillance screens in a quiet tactical room.",
+        "seed": 200009,
+        "sources": [
+          "9:1-2"
+        ]
+      },
+      {
+        "scene": "Inside a futuristic military command room, a general in a plain unmarked uniform reads a field report beside a map and a faded camp photograph.",
+        "seed": 201092,
+        "sources": [
+          "9:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, medals, military medals, badges, insignia, flags, military cap, peaked cap"
+      },
+      {
+        "scene": "A woman in protective gear crosses a cracked gray irradiated plain beneath a cold sky.",
+        "seed": 200010,
+        "sources": [
+          "10:1+"
+        ]
+      },
+      {
+        "scene": "A forgotten laboratory contains a crystal surrounded by intricate scientific rings and dormant instruments.",
+        "seed": 200011,
+        "sources": [
+          "11:1-2"
+        ]
+      },
+      {
+        "scene": "Inside an ancient underground science laboratory, a young woman scout and a single smooth silver humanoid robot examine old measuring rings and instruments.",
+        "seed": 201112,
+        "sources": [
+          "11:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, multiple robots, soldiers, armor, armored robot, helmet, black armor"
+      },
+      {
+        "scene": "A woman scout and a smooth humanoid guardian study an ancient equipment rack with one dim red indicator in an old laboratory.",
+        "seed": 200012,
+        "sources": [
+          "12:1+"
+        ]
+      },
+      {
+        "scene": "A smooth humanoid guardian stands before a luminous crystal as a woman watches faint images appear in the chamber.",
+        "seed": 200013,
+        "sources": [
+          "13:1+"
+        ]
+      },
+      {
+        "scene": "A small military team approaches the rocky edge of a deserted restricted zone with lamps and field radios.",
+        "seed": 200014,
+        "sources": [
+          "14:1+"
+        ]
+      },
+      {
+        "scene": "A general watches a shaky live feed from soldiers moving through a dark underground laboratory.",
+        "seed": 200015,
+        "sources": [
+          "15:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout takes cover beside a stone pillar in a laboratory as an armed team opens fire.",
+        "seed": 200016,
+        "sources": [
+          "16:1+"
+        ]
+      },
+      {
+        "scene": "A smooth humanoid guardian faces armed intruders inside an ancient laboratory, stark light falling across the floor.",
+        "seed": 200017,
+        "sources": [
+          "17:1+"
+        ]
+      },
+      {
+        "scene": "A general watches several camera feeds go dark at a forward command post.",
+        "seed": 200018,
+        "sources": [
+          "18:1+"
+        ]
+      },
+      {
+        "scene": "An injured woman scout struggles with a bandage in a dim maintenance room while her humanoid companion stands nearby.",
+        "seed": 200019,
+        "sources": [
+          "19:1+"
+        ]
+      },
+      {
+        "scene": "An injured woman walks through a vast abandoned laboratory using a shortened metal bar as a cane.",
+        "seed": 200020,
+        "sources": [
+          "20:1+"
+        ]
+      },
+      {
+        "scene": "A weary woman scout returns to a small desert settlement and its low welcoming fire.",
+        "seed": 200021,
+        "sources": [
+          "21:1-2"
+        ]
+      },
+      {
+        "scene": "Inside a small earthen village workshop, a woman scout and villagers repair a leaking hand pump connected to a covered water tank.",
+        "seed": 201212,
+        "sources": [
+          "21:3+"
+        ],
+        "negative": "text, letters, watermark, logo, caption, speech bubble, comic panel, flag, national flag, insignia, patches, astronaut, NASA, extra limbs, malformed hands, blurry, low quality, lake, river, ocean, sea, pond, pool, open water, landscape, grass, trees, forest"
+      },
+      {
+        "scene": "A woman scout and her humanoid companion follow an old service track toward distant northern highlands.",
+        "seed": 200022,
+        "sources": [
+          "22:1+"
+        ]
+      }
+    ],
+    "III": [
+      {
+        "scene": "A wounded woman scout in a stained protective suit rests briefly in a harsh cold landscape beside her equipment.",
+        "seed": 300001,
+        "sources": [
+          "1:1+"
+        ]
+      },
+      {
+        "scene": "A general watches silent recordings of soldiers inside a laboratory from a military command room.",
+        "seed": 300002,
+        "sources": [
+          "2:1+",
+          "3:1+",
+          "4:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout in a heavy armored suit crosses a frozen landscape toward a distant military base.",
+        "seed": 300005,
+        "sources": [
+          "5:1+",
+          "6:1+"
+        ]
+      },
+      {
+        "scene": "A soldier cautiously returns to an abandoned workshop beside an open hangar door.",
+        "seed": 300007,
+        "sources": [
+          "7:1+",
+          "8:1+",
+          "9:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout in a heavy protective suit walks across gray mineral-streaked snow beside a smooth humanoid companion.",
+        "seed": 300010,
+        "sources": [
+          "10:1+",
+          "11:1+"
+        ]
+      },
+      {
+        "scene": "A woman discovers a half-buried beacon marked with a simple broken line on a snowy slope.",
+        "seed": 300012,
+        "sources": [
+          "12:1+",
+          "13:1+"
+        ]
+      },
+      {
+        "scene": "A woman checks the warning indicator on her insulated suit as a polar storm grows around her.",
+        "seed": 300014,
+        "sources": [
+          "14:1+",
+          "15:1+",
+          "16:1+"
+        ]
+      },
+      {
+        "scene": "Wind reveals the smooth dark curve of an ancient structure beneath snow in a remote valley.",
+        "seed": 300017,
+        "sources": [
+          "17:1+",
+          "18:1+"
+        ]
+      },
+      {
+        "scene": "A weakened woman steadies herself against the edge of a platform in an underground sanctuary.",
+        "seed": 300019,
+        "sources": [
+          "19:1+",
+          "20:1+"
+        ]
+      },
+      {
+        "scene": "A crystal lights from within, revealing branching geometric veins as a woman steps back and a humanoid watches.",
+        "seed": 300021,
+        "sources": [
+          "21:1+",
+          "22:1+"
+        ]
+      },
+      {
+        "scene": "A woman scout examines transparent compartments containing preserved biological samples inside an ancient platform.",
+        "seed": 300023,
+        "sources": [
+          "23:1+",
+          "24:1+",
+          "25:1+"
+        ]
+      },
+      {
+        "scene": "A general adjusts a field radio to reach a shared civilian emergency frequency.",
+        "seed": 300026,
+        "sources": [
+          "26:1+"
+        ]
+      },
+      {
+        "scene": "A woman compares two old records covered in different handwritten corrections.",
+        "seed": 300027,
+        "sources": [
+          "27:1+",
+          "28:1+"
+        ]
+      },
+      {
+        "scene": "Armored transports move slowly through a polar storm toward a distant mountain sanctuary.",
+        "seed": 300029,
+        "sources": [
+          "29:1+",
+          "30:1+",
+          "31:1+"
+        ]
+      },
+      {
+        "scene": "Inside a sanctuary, a woman watches a distant snowy valley and armored vehicles appear on an unstable display.",
+        "seed": 300032,
+        "sources": [
+          "32:1+"
+        ]
+      },
+      {
+        "scene": "A general listens to a broken radio transmission while sanctuary doors close in the distance.",
+        "seed": 300033,
+        "sources": [
+          "33:1+",
+          "34:1+"
+        ]
+      },
+      {
+        "scene": "A smooth humanoid places both hands on an ancient platform as lights awaken beneath the ice.",
+        "seed": 300035,
+        "sources": [
+          "35:1+",
+          "36:1+"
+        ]
+      },
+      {
+        "scene": "A commander studies conflicting reports from a drone and soldiers in a snowy field command post.",
+        "seed": 300037,
+        "sources": [
+          "37:1+",
+          "38:1+",
+          "39:1+"
+        ]
+      },
+      {
+        "scene": "A transport slowly backs away across a frozen field as lights appear beneath the snow.",
+        "seed": 300040,
+        "sources": [
+          "40:1+",
+          "41:1+",
+          "42:1+"
+        ]
+      },
+      {
+        "scene": "A mechanic opens the side compartment of a stalled medical transport in the snow.",
+        "seed": 300043,
+        "sources": [
+          "43:1+",
+          "44:1+",
+          "45:1+"
+        ]
+      },
+      {
+        "scene": "A woman looks down at a rifle laid beside an ancient platform while facing a humanoid guardian.",
+        "seed": 300046,
+        "sources": [
+          "46:1+",
+          "47:1+",
+          "48:1+"
+        ]
+      },
+      {
+        "scene": "A woman speaks to a humanoid guardian in the subdued light of an ancient underground chamber.",
+        "seed": 300049,
+        "sources": [
+          "49:1+",
+          "50:1+",
+          "51:1+"
+        ]
+      },
+      {
+        "scene": "A woman circles an ancient platform, searching its surface and seams for a physical release.",
+        "seed": 300052,
+        "sources": [
+          "52:1+",
+          "53:1+",
+          "54:1+"
+        ]
+      },
+      {
+        "scene": "Fragments of historical images hover above a platform: cities, ships and unfamiliar landscapes.",
+        "seed": 300055,
+        "sources": [
+          "55:1+"
+        ]
+      },
+      {
+        "scene": "Soldiers shelter beside a medical vehicle with silent radios and unlit instruments in a snowy camp.",
+        "seed": 300056,
+        "sources": [
+          "56:1+"
+        ]
+      },
+      {
+        "scene": "A woman compares conflicting historical records projected in layers above an ancient platform.",
+        "seed": 300057,
+        "sources": [
+          "57:1+",
+          "58:1+"
+        ]
+      },
+      {
+        "scene": "Pulses of light surround a smooth humanoid guardian inside a silent ancient sanctuary.",
+        "seed": 300059,
+        "sources": [
+          "59:1+",
+          "60:1+"
+        ]
+      },
+      {
+        "scene": "A worn field terminal flickers back to life beside a woman in an ancient sanctuary.",
+        "seed": 300061,
+        "sources": [
+          "61:1+"
+        ]
+      },
+      {
+        "scene": "A woman stands beside her humanoid companion in the dim light of a sanctuary, struggling to speak.",
+        "seed": 300062,
+        "sources": [
+          "62:1+",
+          "63:1+",
+          "64:1+"
+        ]
+      },
+      {
+        "scene": "A woman emerges onto a gray snowy plain, blinking into the wind after a burst of light.",
+        "seed": 300065,
+        "sources": [
+          "65:1+",
+          "66:1+",
+          "67:1+"
+        ]
+      },
+      {
+        "scene": "An exhausted scout walks toward an overturned vehicle on a quiet snow-covered plain.",
+        "seed": 300068,
+        "sources": [
+          "68:1+",
+          "69:1+"
+        ]
+      },
+      {
+        "scene": "A recovering scout rests in a converted medical hangar while a medic checks her injured arm.",
+        "seed": 300070,
+        "sources": [
+          "70:1+"
+        ]
+      }
+    ]
+  }
+}

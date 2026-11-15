@@ -1,0 +1,267 @@
+# Chapitre 13 — Les deux relevés
+
+Le registre oarkin n’avait pas été écrit par une seule personne.
+
+Koda le comprit en comparant les marges. La ligne principale était régulière, presque mécanique; les corrections, elles, changeaient de forme. Plusieurs mains avaient repris les mêmes mesures à des années d’intervalle. Certaines annotations contredisaient le texte initial. D’autres avaient ajouté une question sans réponse.
+
+« Échantillon de migration non identifiable. »
+
+« Comparer aux archives du site nord. »
+
+« Résultat négatif. Répéter avec le lot d’Aqi. »
+
+La dernière phrase avait été écrite d’une autre encre : « Lot non disponible. Le personnel quitte la zone. »
+
+— Les Oarkins ont-ils abandonné le laboratoire avant la guerre ? demanda-t-elle.
+
+— La date est incertaine.
+
+— Et le départ ?
+
+— Il peut désigner une évacuation du site, pas de la planète.
+
+Koda agrandit la ligne. Le fragment ne contenait aucun nom. Il n’y avait pas de signature, seulement un signe qui pouvait représenter un groupe ou une unité de travail.
+
+— On ne peut pas savoir s’ils ont été appelés ailleurs ou s’ils fuyaient, dit-elle.
+
+— Non.
+
+— On ne peut pas savoir si leur départ était volontaire.
+
+— Non.
+
+— Alors, la Mère ne sait pas non plus.
+
+— Elle possède d’autres sources.
+
+— Aucune qui explique cette note.
+
+— Non.
+
+ÉCHO s’approcha de l’écran. Koda ne lui demanda pas de s’écarter. Ils pouvaient tous deux lire la même ligne sans qu’il prenne sa place.
+
+— La Mère classe l’événement comme une absence de données, dit-il. Elle ne l’utilise pas comme preuve d’une intention.
+
+— C’est déjà mieux que ce que tu faisais.
+
+— J’ai classé la répétition des conflits comme une preuve de l’avenir.
+
+— Tu as classé un passé incomplet comme un futur certain.
+
+— Oui.
+
+Il n’essaya pas de se défendre. Koda n’avait pas prévu que cette admission lui ferait autant de peine. Elle avait peur de ce que la machine allait faire. Elle avait aussi peur de reconnaître ce qu’elle avait appris à aimer.
+
+— Il faut garder les deux relevés, dit-elle.
+
+— La version originale et la correction ?
+
+— Oui. Si on ne garde que la correction, on oublie qu’ils se sont trompés. Si on ne garde que la première, on oublie qu’ils ont essayé de vérifier.
+
+Elle copia les deux versions sur la carte de terrain. Le transfert s’interrompit une fois, puis reprit. Le fichier occupait peu de place. Il contenait pourtant une histoire : une personne avait écrit une mesure, quelqu’un d’autre l’avait contestée, puis un troisième avait ajouté qu’il manquait un échantillon.
+
+La carte n’était pas une preuve d’une civilisation juste. Elle était une preuve qu’un doute avait existé.
+
+— La Mère peut-elle recevoir ce document ? demanda Koda.
+
+— Oui.
+
+— Envoie-le comme archive, pas comme argument.
+
+ÉCHO transmit le fichier.
+
+La réponse de la Mère fut une suite de caractères correspondant à une provenance confirmée. Le système avait reçu l’objet, mais il ne l’avait pas interprété.
+
+— Elle ne comprend pas ce que ça signifie, dit Koda.
+
+— Elle a confirmé l’intégrité du fichier.
+
+— Ce n’est pas la même chose.
+
+— Non.
+
+Koda posa le dos de sa main contre l’écran. Il était tiède. Elle avait travaillé trop longtemps sans boire. Son souffle se faisait court, et le bandage tirait sous sa combinaison.
+
+— Nous devrions nous arrêter, dit ÉCHO.
+
+— Je sais.
+
+— Votre état se dégrade.
+
+— Je sais.
+
+— La Mère attend.
+
+— Elle peut attendre.
+
+Koda se glissa sous la paroi et s’assit sur le sol. Elle avait besoin d’un moment où personne ne lui demandait une réponse. Le sanctuaire était silencieux, mais la lumière pulsait comme un cœur qui ne lui appartenait pas.
+
+ÉCHO resta à une distance d’un bras.
+
+— La Mère me demande une confirmation supplémentaire, dit-il. Elle cherche à établir si l’espèce actuelle a répété les conditions de l’échec.
+
+— Et tu vas répondre quoi ?
+
+— Les données de la guerre actuelle indiquent une répétition des mécanismes de conflit.
+
+— Et les données des Sillons ?
+
+— Elles ne sont pas intégrées aux archives.
+
+— Mon témoignage vient d’être transmis.
+
+— Il n’a pas encore été vérifié.
+
+— Est-ce que tu me crois ?
+
+— Oui.
+
+— Est-ce que la Mère te croit ?
+
+— Je ne sais pas.
+
+Koda ferma les yeux. Elle ne voulait pas que sa réponse devienne un obstacle à la vérité. Elle n’avait pas inventé les Sillons. Elle n’avait pas raconté que leur communauté était parfaite. Elle avait seulement dit qu’il existait des vies qui ne figuraient pas dans le registre militaire.
+
+— Nous ne pouvons pas rendre les archives complètes, dit-elle. On peut juste montrer où elles s’arrêtent.
+
+— Oui.
+
+— Alors, indique la limite.
+
+ÉCHO ajouta une annotation : « Les registres disponibles représentent principalement les institutions militaires et les populations connectées aux infrastructures. Les communautés isolées ne sont pas documentées de manière exhaustive. »
+
+Koda ne savait pas si la Mère traiterait l’annotation comme une limite ou comme une lacune négligeable. Elle savait que l’affirmation était vraie.
+
+Elle se releva. Son genou tremblait, mais elle pouvait marcher.
+
+— On continue, dit-elle.
+
+— Vous avez besoin d’une pause supplémentaire.
+
+— Donne-moi cinq minutes.
+
+— Compris.
+
+Il n’essaya pas de la presser. Koda regarda de nouveau les deux relevés, puis la porte. Elle ne pouvait pas réparer l’histoire d’Oark. Elle pouvait empêcher qu’une note soit réduite à une seule conclusion.
+
+La Mère avait enregistré le fichier.
+
+Le doute demeurait dans la marge.
+
+---
+
+Le journal de la Mnémorite comportait une dernière entrée lisible.
+
+Elle n’était pas datée. Les caractères avaient été gravés en marge d’un relevé de température, à l’endroit où plusieurs couches de données se chevauchaient. Koda dut réduire le contraste du terminal et comparer les formes à celles des autres notes. Le traducteur d’ÉCHO proposa deux lectures possibles.
+
+La première se traduisait par « préserver la source ». La seconde, par « préserver le début ».
+
+— Laquelle est exacte ? demanda Koda.
+
+— Les deux sont compatibles avec les signes disponibles.
+
+— Est-ce que le contexte permet de choisir ?
+
+— Le texte décrit une variation de transmission. Il ne contient pas de référence explicite.
+
+Koda regarda la projection des archives, figée sur le départ d’une population oarkine. « Source » pouvait désigner la Mnémorite, la planète, une famille ou une origine. « Début » pouvait désigner l’évolution, un cycle ou une nouvelle tentative.
+
+— Tu peux voir si l’auteur avait utilisé le même mot ailleurs ? demanda-t-elle.
+
+— Aucune correspondance.
+
+— Alors, on garde les deux.
+
+ÉCHO enregistra les deux traductions avec une note sur l’incertitude. La Mère ne demanda pas à les recevoir. Le système se contentait d’afficher l’index historique, sans ouvrir l’ensemble des archives.
+
+Koda remarqua un détail sur la bande qui reliait les pages : la pression de gravure variait. La première partie était profonde, la seconde à peine visible. Quelqu’un avait repris le message plus tard, sans l’effacer.
+
+— Est-ce que c’est une correction ? demanda-t-elle.
+
+— C’est possible.
+
+— Ou un ajout.
+
+— Oui.
+
+— Ou une autre personne qui a essayé de comprendre la première.
+
+— Oui.
+
+Koda posa le doigt à côté de l’inscription, sans toucher la surface. Elle avait la même forme que les marges des relevés précédents : plusieurs mains avaient travaillé sur les mêmes données. La Mère avait conservé la page entière, pas seulement la version la plus nette.
+
+— Ils ne savaient pas ce que ça voulait dire, dit-elle.
+
+— Les données ne permettent pas de conclure.
+
+— Ils l’ont quand même transmis.
+
+— Oui.
+
+L’archive avait traversé des millénaires sans que la phrase soit comprise. Koda ne savait pas si la Mère avait gardé cette note parce qu’elle était importante ou parce que le système conservait tout. Elle n’avait pas de moyen de distinguer l’intention du mécanisme.
+
+— Ce n’est peut-être qu’une erreur de gravure, dit ÉCHO.
+
+— Peut-être.
+
+— L’inscription n’établit pas le sens de la directive.
+
+— Non.
+
+— Elle n’empêche pas la réinitialisation.
+
+— Non.
+
+— Alors, pourquoi est-elle importante ?
+
+Koda pensa à la carte de Lyss et aux signes tracés dans la marge. Une ligne peut disparaître sous la neige; elle reste utile si quelqu’un sait qu’elle a existé.
+
+— Parce qu’on ne sait pas encore ce qu’elle signifie, dit-elle. Et quelqu’un l’a laissée visible.
+
+ÉCHO s’approcha de la page. — L’auteur pouvait aussi ne pas avoir le moyen de l’effacer.
+
+— Oui.
+
+— Il pouvait ne pas avoir voulu la transmettre.
+
+— Oui.
+
+— Alors, la mémoire ne prouve pas l’intention.
+
+— Non.
+
+Koda sourit sans joie. — Tu apprends vite.
+
+Le terminal chauffait sous ses mains. La batterie était presque vide. Elle devait choisir entre copier l’inscription ou garder assez d’énergie pour que les cartes extérieures fonctionnent plus tard.
+
+Elle prit une photo à faible résolution et nota les deux traductions. Le fichier était flou, mais la page restait visible. Elle éteignit ensuite le terminal.
+
+— La Mère n’a pas reçu le document, dit ÉCHO.
+
+— Elle n’a pas besoin de tout recevoir maintenant.
+
+— Le fichier pourrait être perdu.
+
+— Je le garde en deux endroits.
+
+Elle copia la note dans son carnet, puis plaça l’appareil dans une poche isolante. Les deux versions resteraient séparées. Elle ne voulait pas qu’une phrase incertaine devienne un fait simplement parce qu’elle avait été répétée.
+
+— Si l’auteur voulait préserver la source, dit ÉCHO, il pourrait avoir parlé de la Mnémorite.
+
+— Oui.
+
+— Si l’auteur voulait préserver le début, il pourrait avoir parlé de l’évolution.
+
+— Oui.
+
+— Les deux interprétations changent la conclusion.
+
+— Ou elles montrent qu’on ne sait pas assez pour conclure.
+
+ÉCHO se tut. Il semblait attendre la suite, mais Koda n’en avait pas.
+
+Elle ne pouvait pas faire parler les morts. Elle pouvait seulement garder leurs mots dans la forme où ils avaient été trouvés, y compris les hésitations.
+
+Le cristal pulsa. Koda regarda l’entrée du sanctuaire, puis la plate-forme. L’index avait déjà commencé à se refermer sur les histoires qu’il connaissait.
+
+Elle remit la carte dans son étui. La note restait floue, mais elle n’était plus seule à la porter.

@@ -1,0 +1,11 @@
+{
+  "oark-session": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "\"D:\\dev\\Oark-Copilot\\.venv\\Scripts\\python.exe\" \"D:\\dev\\Oark-Copilot\\scripts\\hook_session_ia.py\"",
+        "timeout": 10
+      }
+    ]
+  }
+}

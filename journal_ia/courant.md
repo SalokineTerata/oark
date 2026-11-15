@@ -49,3 +49,7 @@ Application des 3 retours de lecture apres le Livre I : (1) Allègement de 121 d
 ## 2026-11-15T14:56:02+01:00 — Reorganisation professionnelle du depot (archives/v1, livres, exports)
 
 Archivage de la V1 (manuscrits V1, illustrations V1, EPUB/PDF V1 et scripts .bat) dans archives/v1/. Promotion de l'Edition Reference V2 vers livres/ (52 chapitres, 58 illustrations, plans directeurs) et des EPUB3 V2 dans exports/. Mise a jour de scripts/build_books_v2.py, scripts/generate_illustrations_v2.py, scripts/journal_ia.py et README.md. Verifications : 21/21 tests unitaires OK, journal_ia.py etat OK (21+17+14 sources), build_books_v2.py OK (3 EPUB3 regeneres et verifies).
+
+## 2026-11-15T15:02:23+01:00 — Regeneration des bibles, trames et plans dans cadre/
+
+Creation du repertoire cadre/ regroupant les 4 bibles (univers, niveaux technologiques, ECHO, evolution des personnages), les 3 trames narratives, les 3 plans detailles (52 chapitres V2), la charte d'ecriture V2, le plan directeur et le sommaire V2, plus README.md. Verification : 21 tests unitaires OK. Push sur GitHub main.
